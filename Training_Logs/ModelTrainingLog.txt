@@ -1,0 +1,124 @@
+
+2022-01-13/17:19:47		Instances have been created for all the models
+
+2022-01-13/17:19:47		Entered the get_best_model method of the Model_Finder class
+
+2022-01-13/17:19:47		Entered the get_best_params_for_lasso_regression method of the Model_Finder class
+
+2022-01-13/17:19:48		Lasso Regression best params: 0.00037226991991061545. Exited the get_best_params_for_linear_regression method of the Model_Finder class
+
+2022-01-13/17:19:48		Test Accuracy for Lasso Regression Model :0.6018195721211672
+
+2022-01-13/17:19:48		Train and Test Accuracy difference for Lasso Regression Model :0.019073487527275335
+
+2022-01-13/17:19:48		Entered the save_model method of the Model_Operation class
+
+2022-01-13/17:19:48		Model File Lasso Regressionsaved. Exited the save_model method of the Model_Finder class
+
+2022-01-13/17:19:46		Training Operation Started....
+
+2022-01-13/17:19:48		Training Operation Completed SuccessFully....
+
+2022-01-14/15:06:28		Instances have been created for all the models
+
+2022-01-14/15:06:28		Entered the get_best_model method of the Model_Finder class
+
+2022-01-14/15:06:28		Entered the get_best_params_for_lasso_regression method of the Model_Finder class
+
+2022-01-14/15:06:29		Lasso Regression best params: 0.00037226991991061545. Exited the get_best_params_for_linear_regression method of the Model_Finder class
+
+2022-01-14/15:06:29		Test Accuracy for Lasso Regression Model :0.6018195721211672
+
+2022-01-14/15:06:29		Train and Test Accuracy difference for Lasso Regression Model :0.019073487527275335
+
+2022-01-14/15:06:29		Entered the save_model method of the Model_Operation class
+
+2022-01-14/15:06:29		Model File Lasso Regressionsaved. Exited the save_model method of the Model_Finder class
+
+2022-01-14/15:06:27		Training Operation Started....
+
+2022-01-14/15:06:29		Training Operation Completed SuccessFully....
+
+2022-01-14/15:24:38		Instances have been created for all the models
+
+2022-01-14/15:24:38		Entered the get_best_model method of the Model_Finder class
+
+2022-01-14/15:24:38		Entered the get_best_params_for_lasso_regression method of the Model_Finder class
+
+2022-01-14/15:24:39		Lasso Regression best params: 0.00037226991991061545. Exited the get_best_params_for_linear_regression method of the Model_Finder class
+
+2022-01-14/15:24:39		Test Accuracy for Lasso Regression Model :0.6018195721211672
+
+2022-01-14/15:24:39		Train and Test Accuracy difference for Lasso Regression Model :0.019073487527275335
+
+2022-01-14/15:24:39		Entered the save_model method of the Model_Operation class
+
+2022-01-14/15:24:39		Model File Lasso Regressionsaved. Exited the save_model method of the Model_Finder class
+
+2022-01-14/15:24:38		Training Operation Started....
+
+2022-01-14/15:24:39		Training Operation Completed SuccessFully....
+
+2022-01-14/15:25:32		Instances have been created for all the models
+
+2022-01-14/15:25:32		Entered the get_best_model method of the Model_Finder class
+
+2022-01-14/15:25:32		Entered the get_best_params_for_lasso_regression method of the Model_Finder class
+
+2022-01-14/15:25:33		Lasso Regression best params: 0.00037226991991061545. Exited the get_best_params_for_linear_regression method of the Model_Finder class
+
+2022-01-14/15:25:33		Test Accuracy for Lasso Regression Model :0.6018195721211672
+
+2022-01-14/15:25:33		Train and Test Accuracy difference for Lasso Regression Model :0.019073487527275335
+
+2022-01-14/15:25:33		Entered the save_model method of the Model_Operation class
+
+2022-01-14/15:25:33		Model File Lasso Regressionsaved. Exited the save_model method of the Model_Finder class
+
+2022-01-14/15:25:32		Training Operation Started....
+
+2022-01-14/15:25:33		Training Operation Completed SuccessFully....
+
+2022-01-14/15:33:17		Instances have been created for all the models
+
+2022-01-14/15:33:17		Entered the get_best_model method of the Model_Finder class
+
+2022-01-14/15:33:17		Entered the get_best_params_for_lasso_regression method of the Model_Finder class
+
+2022-01-14/15:33:17		Lasso Regression best params: 0.00037226991991061545. Exited the get_best_params_for_linear_regression method of the Model_Finder class
+
+2022-01-14/15:33:17		Test Accuracy for Lasso Regression Model :0.5970450870952746
+
+2022-01-14/15:33:17		Train and Test Accuracy difference for Lasso Regression Model :0.022072189282789756
+
+2022-01-14/15:33:17		Entered the save_model method of the Model_Operation class
+
+2022-01-14/15:33:17		Model File Lasso Regressionsaved. Exited the save_model method of the Model_Finder class
+
+2022-01-14/15:33:17		Training Operation Started....
+
+2022-01-14/15:33:17		Training Operation Completed SuccessFully....
+
+2022-01-17/15:25:50		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-17/15:25:50		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-17/15:25:50		Entered the load_model method of the Model_Operation class
+
+2022-01-17/15:25:50		Model File Lasso Regressionloaded. Exited the load_model method of the Model_Finder class
+
+2022-01-17/17:22:58		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-17/17:22:58		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-17/17:22:58		Entered the load_model method of the Model_Operation class
+
+2022-01-17/17:22:58		Model File Lasso Regressionloaded. Exited the load_model method of the Model_Finder class
+
+2022-01-17/17:23:41		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-17/17:23:41		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-17/17:23:41		Entered the load_model method of the Model_Operation class
+
+2022-01-17/17:23:41		Model File Lasso Regressionloaded. Exited the load_model method of the Model_Finder class

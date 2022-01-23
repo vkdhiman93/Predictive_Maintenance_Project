@@ -1,0 +1,116 @@
+
+2022-01-13/17:19:46		Entered the is_null_present method of the Preprocessor class
+
+2022-01-13/17:19:47		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+
+2022-01-13/17:19:47		Entered the separate_label_feature method of the Preprocessor class
+
+2022-01-13/17:19:47		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+
+2022-01-13/17:19:47		Entered the scale_numerical_columns method of the Preprocessor class
+
+2022-01-13/17:19:47		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+
+2022-01-13/17:19:47		Entered the remove_columns method of the Preprocessor class
+
+2022-01-13/17:19:47		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+
+2022-01-14/15:06:28		Entered the is_null_present method of the Preprocessor class
+
+2022-01-14/15:06:28		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+
+2022-01-14/15:06:28		Entered the separate_label_feature method of the Preprocessor class
+
+2022-01-14/15:06:28		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+
+2022-01-14/15:06:28		Entered the remove_columns method of the Preprocessor class
+
+2022-01-14/15:06:28		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+
+2022-01-14/15:06:28		Entered the scale_numerical_columns method of the Preprocessor class
+
+2022-01-14/15:06:28		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+
+2022-01-14/15:24:38		Entered the is_null_present method of the Preprocessor class
+
+2022-01-14/15:24:38		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+
+2022-01-14/15:24:38		Entered the separate_label_feature method of the Preprocessor class
+
+2022-01-14/15:24:38		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+
+2022-01-14/15:24:38		Entered the remove_columns method of the Preprocessor class
+
+2022-01-14/15:24:38		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+
+2022-01-14/15:24:38		Entered the scale_numerical_columns method of the Preprocessor class
+
+2022-01-14/15:24:38		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+
+2022-01-14/15:25:32		Entered the is_null_present method of the Preprocessor class
+
+2022-01-14/15:25:32		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+
+2022-01-14/15:25:32		Entered the separate_label_feature method of the Preprocessor class
+
+2022-01-14/15:25:32		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+
+2022-01-14/15:25:32		Entered the remove_columns method of the Preprocessor class
+
+2022-01-14/15:25:32		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+
+2022-01-14/15:25:32		Entered the scale_numerical_columns method of the Preprocessor class
+
+2022-01-14/15:25:32		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+
+2022-01-14/15:25:49		Entered the is_null_present method of the Preprocessor class
+
+2022-01-14/15:25:49		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+
+2022-01-14/15:25:49		Entered the separate_label_feature method of the Preprocessor class
+
+2022-01-14/15:25:49		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+
+2022-01-14/15:25:49		Entered the remove_columns method of the Preprocessor class
+
+2022-01-14/15:25:49		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+
+2022-01-14/15:33:17		Entered the is_null_present method of the Preprocessor class
+
+2022-01-14/15:33:17		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+
+2022-01-14/15:33:17		Entered the separate_label_feature method of the Preprocessor class
+
+2022-01-14/15:33:17		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+
+2022-01-14/15:33:17		Entered the remove_columns method of the Preprocessor class
+
+2022-01-14/15:33:17		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+
+2022-01-14/15:33:17		Entered the scale_numerical_columns method of the Preprocessor class
+
+2022-01-14/15:33:17		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+
+2022-01-14/15:33:33		Entered the is_null_present method of the Preprocessor class
+
+2022-01-14/15:33:33		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+
+2022-01-14/15:33:33		Entered the separate_label_feature method of the Preprocessor class
+
+2022-01-14/15:33:33		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+
+2022-01-14/15:33:33		Entered the remove_columns method of the Preprocessor class
+
+2022-01-14/15:33:33		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+
+2022-01-17/15:25:49		Entered the scale_numerical_columns method of the Preprocessor class
+
+2022-01-17/15:25:50		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+
+2022-01-17/17:22:58		Entered the scale_numerical_columns method of the Preprocessor class
+
+2022-01-17/17:22:58		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+
+2022-01-17/17:23:41		Entered the scale_numerical_columns method of the Preprocessor class
+
+2022-01-17/17:23:41		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
