@@ -48,11 +48,13 @@ class prediction:
             drop_sensors = ['s_1', 's_5', 's_6', 's_10', 's_16', 's_18', 's_19']
             drop_labels = index_names + setting_names + drop_sensors
 
+            # Remove the columns not required in prediction
 
-            df = data.drop(drop_labels, axis=1)
+            # Since the true RUL values for the test set are only provided for the last time cycle of each engine,
+            # the test set is subsetted to represent the same
+            df = data.groupby('unit_nr').last().reset_index().drop(drop_labels, axis=1)
 
             df = preprocessor.scale_numerical_columns(df)
-
 
             self.file_object.close()
             return df
@@ -87,7 +89,7 @@ class prediction:
             result = list(model.predict(self.data))
             result = pd.DataFrame(result, columns=['Predicted RUL'])
             path = os.path.join("Prediction_Output_File", "Predictions.csv")
-            result.to_csv(path, header=True, mode='a+')
+            result.to_csv(path, header=True, mode='w+')
             self.log_writer.log(self.file_object, 'End of get_prediction')
             self.file_object.close()
 

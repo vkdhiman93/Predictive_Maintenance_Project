@@ -62,7 +62,9 @@ class Data_Getter:
             setting_names = ['setting_1', 'setting_2', 'setting_3']
             sensor_names = ['s_{}'.format(i) for i in range(1, 22)]
             col_names = index_names + setting_names + sensor_names
-            self.data = pd.read_csv(self.test_file, sep='\s+', header=None, names=col_names)  # reading the test data file
+            # reading the test data file
+            self.data = pd.read_csv(self.test_file, sep='\s+', header=None, names=col_names)
+
             self.logger_object.log(self.logfile, 'Data Load Successful.Exited the get_test_data '
                                                  'method of the Data_Getter class')
             self.logfile.close()
@@ -75,7 +77,6 @@ class Data_Getter:
                                                  'Exited the get_data method of the Data_Getter class')
             self.logfile.close()
             raise Exception()
-
 
     def prediction_data(self):
         """

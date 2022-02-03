@@ -114,3 +114,15 @@
 2022-01-17/17:23:41		Entered the scale_numerical_columns method of the Preprocessor class
 
 2022-01-17/17:23:41		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+
+2022-02-03/16:22:34		Entered the scale_numerical_columns method of the Preprocessor class
+
+2022-02-03/16:22:34		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+
+2022-02-03/16:28:26		Entered the scale_numerical_columns method of the Preprocessor class
+
+2022-02-03/16:28:26		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+
+2022-02-03/16:28:43		Entered the scale_numerical_columns method of the Preprocessor class
+
+2022-02-03/16:28:43		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class

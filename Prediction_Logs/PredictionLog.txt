@@ -28,3 +28,37 @@
 2022-01-17/17:23:41		Start For Gathering Data for prediction
 
 2022-01-17/17:23:41		Prediction process Completed...
+
+2022-02-03/16:22:33		Enter In Convert_input_into_data
+
+2022-02-03/16:22:34		Start of get_prediction
+
+2022-02-03/16:22:34		End of get_prediction
+
+2022-02-03/16:22:33		Start For Gathering Data for prediction
+
+2022-02-03/16:22:34		Prediction process Completed...
+
+2022-02-03/16:25:06		Start For Gathering Data for prediction
+
+2022-02-03/16:25:06		Enter In Convert_input_into_data
+
+2022-02-03/16:28:26		Enter In Convert_input_into_data
+
+2022-02-03/16:28:26		Start of get_prediction
+
+2022-02-03/16:28:26		Error occurred while running the prediction!! Error:: [Errno 13] Permission denied: 'Prediction_Output_File\\Predictions.csv'
+
+2022-02-03/16:28:26		Start For Gathering Data for prediction
+
+2022-02-03/16:28:26		This is a problem with Prediction Process[Errno 13] Permission denied: 'Prediction_Output_File\\Predictions.csv'
+
+2022-02-03/16:28:43		Enter In Convert_input_into_data
+
+2022-02-03/16:28:43		Start of get_prediction
+
+2022-02-03/16:28:43		End of get_prediction
+
+2022-02-03/16:28:43		Start For Gathering Data for prediction
+
+2022-02-03/16:28:43		Prediction process Completed...
