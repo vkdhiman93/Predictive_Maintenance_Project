@@ -54,3 +54,35 @@
 2022-02-03/16:28:43		Entered the get_test_data method of the Data_Getter class
 
 2022-02-03/16:28:43		Data Load Successful.Exited the get_test_data method of the Data_Getter class
+
+2022-02-18/19:54:09		Entered the get_test_data method of the Data_Getter class
+
+2022-02-18/19:54:09		Data Load Successful.Exited the get_test_data method of the Data_Getter class
+
+2022-02-18/19:55:07		Entered the get_test_data method of the Data_Getter class
+
+2022-02-18/19:55:07		Data Load Successful.Exited the get_test_data method of the Data_Getter class
+
+2022-02-18/19:58:37		Entered the get_test_data method of the Data_Getter class
+
+2022-02-18/19:58:37		Data Load Successful.Exited the get_test_data method of the Data_Getter class
+
+2022-02-18/19:58:46		Entered the get_test_data method of the Data_Getter class
+
+2022-02-18/19:58:46		Data Load Successful.Exited the get_test_data method of the Data_Getter class
+
+2022-02-18/20:01:52		Entered the get_test_data method of the Data_Getter class
+
+2022-02-18/20:01:52		Data Load Successful.Exited the get_test_data method of the Data_Getter class
+
+2022-02-18/20:08:01		Entered the get_test_data method of the Data_Getter class
+
+2022-02-18/20:08:01		Data Load Successful.Exited the get_test_data method of the Data_Getter class
+
+2022-02-18/20:13:14		Entered the get_test_data method of the Data_Getter class
+
+2022-02-18/20:13:15		Data Load Successful.Exited the get_test_data method of the Data_Getter class
+
+2022-02-18/20:14:33		Entered the get_test_data method of the Data_Getter class
+
+2022-02-18/20:14:33		Data Load Successful.Exited the get_test_data method of the Data_Getter class

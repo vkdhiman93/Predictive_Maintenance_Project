@@ -146,3 +146,67 @@
 2022-02-03/16:28:43		Entered the load_model method of the Model_Operation class
 
 2022-02-03/16:28:43		Model File Lasso Regressionloaded. Exited the load_model method of the Model_Finder class
+
+2022-02-18/19:54:10		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-02-18/19:54:10		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-02-18/19:54:10		Entered the load_model method of the Model_Operation class
+
+2022-02-18/19:54:10		Model File Lasso Regressionloaded. Exited the load_model method of the Model_Finder class
+
+2022-02-18/19:55:07		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-02-18/19:55:07		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-02-18/19:55:07		Entered the load_model method of the Model_Operation class
+
+2022-02-18/19:55:07		Model File Lasso Regressionloaded. Exited the load_model method of the Model_Finder class
+
+2022-02-18/19:58:37		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-02-18/19:58:37		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-02-18/19:58:37		Entered the load_model method of the Model_Operation class
+
+2022-02-18/19:58:37		Model File Lasso Regressionloaded. Exited the load_model method of the Model_Finder class
+
+2022-02-18/19:58:46		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-02-18/19:58:46		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-02-18/19:58:46		Entered the load_model method of the Model_Operation class
+
+2022-02-18/19:58:46		Model File Lasso Regressionloaded. Exited the load_model method of the Model_Finder class
+
+2022-02-18/20:01:52		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-02-18/20:01:52		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-02-18/20:01:52		Entered the load_model method of the Model_Operation class
+
+2022-02-18/20:01:52		Model File Lasso Regressionloaded. Exited the load_model method of the Model_Finder class
+
+2022-02-18/20:08:01		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-02-18/20:08:01		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-02-18/20:08:01		Entered the load_model method of the Model_Operation class
+
+2022-02-18/20:08:01		Model File Lasso Regressionloaded. Exited the load_model method of the Model_Finder class
+
+2022-02-18/20:13:15		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-02-18/20:13:15		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-02-18/20:13:15		Entered the load_model method of the Model_Operation class
+
+2022-02-18/20:13:15		Model File Lasso Regressionloaded. Exited the load_model method of the Model_Finder class
+
+2022-02-18/20:14:33		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-02-18/20:14:33		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-02-18/20:14:33		Entered the load_model method of the Model_Operation class
+
+2022-02-18/20:14:33		Model File Lasso Regressionloaded. Exited the load_model method of the Model_Finder class

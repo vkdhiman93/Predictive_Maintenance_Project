@@ -1,0 +1,23 @@
+{% extends "public/templates/public_template.html" %}
+
+{% block title %}predict{% endblock %}
+
+{% block main %}
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <h1>Predict</h1>
+      <hr>
+      
+      <h4>Prediction</h4>
+      <hr>
+      {% for table in tables %}
+            {{titles[loop.index]}}
+            {{ table|safe }}
+      {%endfor%}
+    </div>
+  </div>
+</div>
+
+{% endblock %}

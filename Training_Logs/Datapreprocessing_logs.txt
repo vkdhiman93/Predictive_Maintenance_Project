@@ -126,3 +126,35 @@
 2022-02-03/16:28:43		Entered the scale_numerical_columns method of the Preprocessor class
 
 2022-02-03/16:28:43		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+
+2022-02-18/19:54:10		Entered the scale_numerical_columns method of the Preprocessor class
+
+2022-02-18/19:54:10		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+
+2022-02-18/19:55:07		Entered the scale_numerical_columns method of the Preprocessor class
+
+2022-02-18/19:55:07		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+
+2022-02-18/19:58:37		Entered the scale_numerical_columns method of the Preprocessor class
+
+2022-02-18/19:58:37		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+
+2022-02-18/19:58:46		Entered the scale_numerical_columns method of the Preprocessor class
+
+2022-02-18/19:58:46		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+
+2022-02-18/20:01:52		Entered the scale_numerical_columns method of the Preprocessor class
+
+2022-02-18/20:01:52		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+
+2022-02-18/20:08:01		Entered the scale_numerical_columns method of the Preprocessor class
+
+2022-02-18/20:08:01		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+
+2022-02-18/20:13:15		Entered the scale_numerical_columns method of the Preprocessor class
+
+2022-02-18/20:13:15		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+
+2022-02-18/20:14:33		Entered the scale_numerical_columns method of the Preprocessor class
+
+2022-02-18/20:14:33		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class

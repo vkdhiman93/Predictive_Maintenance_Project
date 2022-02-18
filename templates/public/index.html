@@ -1,0 +1,16 @@
+<!-- refactor index.html to be our first child template-->
+{% extends "public/templates/public_template.html" %}
+
+{% block title %}Predict{% endblock %}
+<!-- Whatever we put inside the block main is going to be plugged into block section of public template.  -->
+{% block main %}
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <h1>Predict</h1>
+    </div>
+  </div>
+</div>
+
+{% endblock %}
