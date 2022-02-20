@@ -13,7 +13,6 @@
       <h4>Prediction done successfully</h4>
       <hr>
       {% for table in tables %}
-            {{titles[loop.index]}}
             {{ table|safe }}
       {%endfor%}
     </div>

@@ -87,7 +87,7 @@ class prediction:
             model_name = model_loader.find_correct_model_file()
             model = model_loader.load_model(model_name)
             result = list(model.predict(self.data))
-            result = pd.DataFrame(result, columns=['Predicted RUL'])
+            result = pd.DataFrame(result, index=range(1, 101), columns=['Predicted RUL']).rename_axis('Engine No.')
             path = os.path.join("Prediction_Output_File", "Predictions.csv")
             result.to_csv(path, header=True, mode='w+')
             self.log_writer.log(self.file_object, 'End of get_prediction')

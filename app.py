@@ -97,7 +97,7 @@ def predict():
         file_object.close()
         raise Exception(str(e))
 
-    return render_template("public/predict.html", tables=[result.to_html(classes='data')], titles=result.columns.values)
+    return render_template("public/predict.html", tables=[result.to_html(classes='data', header="true")])
 
 
 if __name__ == "__main__":
