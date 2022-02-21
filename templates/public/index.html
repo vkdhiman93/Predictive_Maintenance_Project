@@ -1,7 +1,7 @@
 <!-- refactor index.html to be our first child template-->
 {% extends "public/templates/public_template.html" %}
 
-{% block title %}Predict{% endblock %}
+{% block title %}Predictive Maintenance{% endblock %}
 <!-- Whatever we put inside the block main is going to be plugged into block section of public template.  -->
 {% block main %}
 
@@ -15,9 +15,11 @@
 
       <h4 style="margin-top:1cm;">Please follow the given instructions to proceed : </h4>
 
-      <h4 style="margin-top:0.5cm;">1. For uploading test file click on the Upload file tab </h4>
+      <h4 style="margin-top:0.5cm;">1. Click on the Training tab to train and save a ML Model </h4>
 
-      <h4>2. After that for predicting RUL of the engines click on Predict tab </h4>
+      <h4>2. For uploading test file click on the Upload file tab </h4>
+
+      <h4>3. After that for predicting RUL of the engines click on Predict tab </h4>
     </div>
   </div>
 </div>

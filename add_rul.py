@@ -27,6 +27,8 @@ def add_remaining_useful_life(df):
     # Calculate remaining useful life for each row
     remaining_useful_life = result_frame["max_cycle"] - result_frame["time_cycles"]
     result_frame["RUL"] = remaining_useful_life
+    ## Clipped RUL 
+    result_frame["RUL"] = result_frame["RUL"].clip(upper=125)
 
     # drop max_cycle as it's no longer needed
     result_frame = result_frame.drop("max_cycle", axis=1)

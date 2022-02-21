@@ -28,7 +28,8 @@ def about():
 
     <code>Flask is <em>awesome</em></code>
     """
-
+@app.route('/training')
+@cross_origin()
 def training():
     """
     Method : training
@@ -49,10 +50,8 @@ def training():
         log_writer.log(file_object, 'This is a problem with Model Training' + str(e))
         file_object.close()
         raise Exception(str(e))
-    return "Training Completed"
+    return render_template("public/training.html")
 
-
-# training()
 
 @app.route('/upload_txt', methods=['GET', 'POST' ])  # route to show the predictions in a web UI
 @cross_origin()

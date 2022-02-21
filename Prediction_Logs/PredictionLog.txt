@@ -142,3 +142,175 @@
 2022-02-18/20:14:33		Start For Gathering Data for prediction
 
 2022-02-18/20:14:33		Prediction process Completed...
+
+2022-02-19/17:40:23		Enter In Convert_input_into_data
+
+2022-02-19/17:40:23		Start of get_prediction
+
+2022-02-19/17:40:23		End of get_prediction
+
+2022-02-19/17:40:23		Start For Gathering Data for prediction
+
+2022-02-19/17:40:23		Prediction process Completed...
+
+2022-02-19/17:42:02		Enter In Convert_input_into_data
+
+2022-02-19/17:42:02		Start of get_prediction
+
+2022-02-19/17:42:02		End of get_prediction
+
+2022-02-19/17:42:02		Start For Gathering Data for prediction
+
+2022-02-19/17:42:02		Prediction process Completed...
+
+2022-02-20/13:09:08		Enter In Convert_input_into_data
+
+2022-02-20/13:09:08		Start of get_prediction
+
+2022-02-20/13:09:08		End of get_prediction
+
+2022-02-20/13:09:08		Start For Gathering Data for prediction
+
+2022-02-20/13:09:08		Prediction process Completed...
+
+2022-02-20/13:09:24		Enter In Convert_input_into_data
+
+2022-02-20/13:09:24		Start of get_prediction
+
+2022-02-20/13:09:24		End of get_prediction
+
+2022-02-20/13:09:24		Start For Gathering Data for prediction
+
+2022-02-20/13:09:24		Prediction process Completed...
+
+2022-02-20/13:09:43		Enter In Convert_input_into_data
+
+2022-02-20/13:09:43		Start of get_prediction
+
+2022-02-20/13:09:43		End of get_prediction
+
+2022-02-20/13:09:43		Start For Gathering Data for prediction
+
+2022-02-20/13:09:43		Prediction process Completed...
+
+2022-02-20/13:09:46		Enter In Convert_input_into_data
+
+2022-02-20/13:09:46		Start of get_prediction
+
+2022-02-20/13:09:46		End of get_prediction
+
+2022-02-20/13:09:46		Start For Gathering Data for prediction
+
+2022-02-20/13:09:46		Prediction process Completed...
+
+2022-02-20/13:10:16		Enter In Convert_input_into_data
+
+2022-02-20/13:10:16		Start of get_prediction
+
+2022-02-20/13:10:16		End of get_prediction
+
+2022-02-20/13:10:16		Start For Gathering Data for prediction
+
+2022-02-20/13:10:16		Prediction process Completed...
+
+2022-02-20/13:10:56		Enter In Convert_input_into_data
+
+2022-02-20/13:10:56		Start of get_prediction
+
+2022-02-20/13:10:56		End of get_prediction
+
+2022-02-20/13:10:56		Start For Gathering Data for prediction
+
+2022-02-20/13:10:56		Prediction process Completed...
+
+2022-02-20/16:11:12		Enter In Convert_input_into_data
+
+2022-02-20/16:19:29		Enter In Convert_input_into_data
+
+2022-02-20/16:19:30		Start of get_prediction
+
+2022-02-20/16:19:30		Error occurred while running the prediction!! Error:: Index(...) must be called with a collection of some kind, False was passed
+
+2022-02-20/16:19:29		Start For Gathering Data for prediction
+
+2022-02-20/16:19:30		This is a problem with Prediction ProcessIndex(...) must be called with a collection of some kind, False was passed
+
+2022-02-20/16:21:44		Enter In Convert_input_into_data
+
+2022-02-20/16:21:44		Start of get_prediction
+
+2022-02-20/16:21:44		End of get_prediction
+
+2022-02-20/16:21:44		Start For Gathering Data for prediction
+
+2022-02-20/16:21:45		Prediction process Completed...
+
+2022-02-20/16:38:42		Enter In Convert_input_into_data
+
+2022-02-20/16:38:42		Start of get_prediction
+
+2022-02-20/16:38:42		End of get_prediction
+
+2022-02-20/16:38:42		Start For Gathering Data for prediction
+
+2022-02-20/16:38:42		Prediction process Completed...
+
+2022-02-20/16:41:19		Enter In Convert_input_into_data
+
+2022-02-20/16:41:19		Start of get_prediction
+
+2022-02-20/16:41:19		End of get_prediction
+
+2022-02-20/16:41:19		Start For Gathering Data for prediction
+
+2022-02-20/16:41:19		Prediction process Completed...
+
+2022-02-20/16:42:53		Enter In Convert_input_into_data
+
+2022-02-20/16:42:53		Start of get_prediction
+
+2022-02-20/16:42:53		End of get_prediction
+
+2022-02-20/16:42:53		Start For Gathering Data for prediction
+
+2022-02-20/16:42:53		Prediction process Completed...
+
+2022-02-20/16:43:18		Enter In Convert_input_into_data
+
+2022-02-20/16:43:18		Start of get_prediction
+
+2022-02-20/16:43:18		End of get_prediction
+
+2022-02-20/16:43:18		Start For Gathering Data for prediction
+
+2022-02-20/16:43:18		Prediction process Completed...
+
+2022-02-20/16:45:52		Enter In Convert_input_into_data
+
+2022-02-20/16:45:53		Start of get_prediction
+
+2022-02-20/16:45:53		End of get_prediction
+
+2022-02-20/16:45:52		Start For Gathering Data for prediction
+
+2022-02-20/16:45:53		Prediction process Completed...
+
+2022-02-21/18:27:13		Enter In Convert_input_into_data
+
+2022-02-21/18:27:14		Start of get_prediction
+
+2022-02-21/18:27:14		End of get_prediction
+
+2022-02-21/18:27:13		Start For Gathering Data for prediction
+
+2022-02-21/18:27:14		Prediction process Completed...
+
+2022-02-21/18:31:39		Enter In Convert_input_into_data
+
+2022-02-21/18:31:39		Start of get_prediction
+
+2022-02-21/18:31:40		End of get_prediction
+
+2022-02-21/18:31:39		Start For Gathering Data for prediction
+
+2022-02-21/18:31:40		Prediction process Completed...
