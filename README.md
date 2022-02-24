@@ -18,7 +18,7 @@ test dataset.
   <pre>
   <li> Data Collection                    : Data has been collected from the Kaggle platform
   <li> Log creation                       : Created logging in order keep track of each step and to understand the workflow
-  <li> Data insertion into Database       : Used MangoDb for data Insertion
+  <li> Data insertion into Database       : Used Cassandra Db (datastax) for data Insertion
   <li> Exploratory data analysis          : Used Pandas profiling for EDA part and  generated a 
                                             report and stored in analysis folder
   <li> Feature Engineering                : Tried to keep relevant features(sensor readings) and 

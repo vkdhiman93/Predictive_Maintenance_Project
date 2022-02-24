@@ -2,12 +2,11 @@ Database_name : rul_project
 
 keys_ :
   path_to_zip : secure-connect-rul-project.zip
-  client_id : cgZoZZNNeUGTxDZSDpTEeZkN
-  client_seck : ZWvPwk-LNTazEvg8OSoTZEaZ4eH.PQ2Q2OeEUH-ymUx0DwU6jBZv4k7k1rlZ7z74XZAKab8Zh3-Jy5H4MWYpTzw.oWdGbCZz7Nr0FhWm2ivdPm0OFmjFxwzxZv7Sl58n
+  client_id : eDPAZCyPzJjHcqMkOomXrEJu
+  client_seck : 0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG
   role : Admin User
-
 
 Good_training_tables_info:
   table_name : Good_trainingTable
-  keyspace_name  : '"ineuron"'
+  keyspace_name  : ineuron
   purpose : "to store Good validated data"
