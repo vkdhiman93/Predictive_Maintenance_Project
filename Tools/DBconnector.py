@@ -43,8 +43,7 @@ class DBconnector:
         """
             task : this method helps to connect the server based Cassandra Database..
             Inputs : secure .zip file , client_id , client_secret
-            written by : shubham
-            :return: session or (cursor)
+            return: session or (cursor)
         """
 
         try:

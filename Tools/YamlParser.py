@@ -5,7 +5,8 @@ import os
 
 
 class YamlParser:
-    """ this class helps us to read the Information from the Given Yaml FIles.
+    """ 
+    this class helps us to read the Information from the Given Yaml FIles.
     """
 
     def __init__(self, yml_filePath):
@@ -15,15 +16,21 @@ class YamlParser:
 
     def yaml_parser(self):
         try:
-            file_ = open(self.logFilePath, 'a+')
-            self.logger.log(file_object=file_, log_massage=" Entered into : DBconnectionInfo-YamlParser..")
-            with open(self.yml_filePath, 'r') as f:
+            file_ = open(self.logFilePath, "a+")
+            self.logger.log(
+                file_object=file_,
+                log_massage=" Entered into : DBconnectionInfo-YamlParser..",
+            )
+            with open(self.yml_filePath, "r") as f:
                 info = list(yaml.load_all(f, Loader=SafeLoader))
                 f.close()
-            self.logger.log(file_, log_massage=f'File Parsed SuccessFully.. \n \t\t\t\t\t\t\t\t\t\t\t  {str(info)}')
+            self.logger.log(
+                file_,
+                log_massage=f"File Parsed SuccessFully.. \n \t\t\t\t\t\t\t\t\t\t\t  {str(info)}",
+            )
             file_.close()
         except Exception as e:
-            self.logger.log(file_, log_massage=f'Exception : {str(e)}')
+            self.logger.log(file_, log_massage=f"Exception : {str(e)}")
             file_.close()
             raise e
         return info
