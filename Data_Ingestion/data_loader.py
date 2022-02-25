@@ -33,7 +33,7 @@ class Data_Getter:
         self.logfile = open(self.logfilepath, mode='a')
         self.logger_object.log(self.logfile, 'Entered the get_data method of the Data_Getter class')
         try:
-            self.data = pd.read_csv(self.training_file)  # reading the data file
+            self.data = pd.read_csv(self.training_file)  # reading the training data file
             self.logger_object.log(self.logfile, 'Data Load Successful.Exited the get_data '
                                                  'method of the Data_Getter class')
             self.logfile.close()

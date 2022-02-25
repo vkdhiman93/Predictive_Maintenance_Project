@@ -1,8 +1,10 @@
 # importing the necessary dependencies
+import pandas as pd
+import os
+import warnings
 from flask import Flask, render_template, request, redirect
 from flask_cors import cross_origin
 from training_db_linkage import Main_trainingDataValidation
-import pandas as pd
 import training_file as train
 import prediction_file as pred
 from Data_Ingestion import data_loader
@@ -42,6 +44,7 @@ def training():
         train_val_obj = Main_trainingDataValidation()
         train_val_obj.train_validation()
         log_writer.log(file_object, 'Data Validation Completed Successfully')
+
         train_obj = train.training()
         train_obj.trainingModel()
         log_writer.log(file_object, 'Model Training Completed Successfully')

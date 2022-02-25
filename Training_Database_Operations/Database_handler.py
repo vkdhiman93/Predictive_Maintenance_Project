@@ -1,5 +1,5 @@
 # this file helps to create the Good_training_tables
-
+from cassandra.concurrent import execute_concurrent_with_args
 from cassandra.query import dict_factory
 from application_logging.logging import LoggerApp
 from Tools.DBconnector import DBconnector
@@ -21,7 +21,7 @@ class Database_Operations:
             self.goodfilepath = os.path.join("Training_Raw_files")
 
             self.yaml_path = os.path.join("Controllers", "DBconnection_info.yaml")
-            self.session = DBconnector().connect()
+            # self.session = DBconnector().connect()
             self.key_space = YamlParser(self.yaml_path).yaml_parser()[0][
                 "Good_training_tables_info"
             ]["keyspace_name"]
@@ -29,6 +29,20 @@ class Database_Operations:
                 "Good_training_tables_info"
             ]["table_name"]
             self.logger.log(self.f_, "All the required Files are initialized ....")
+            self.f_.close()
+        except Exception as e:
+            self.logger.log(file_object=self.f_, log_massage="Exception : " + str(e))
+            self.f_.close()
+            raise e
+
+    def dbconnect(self):
+        try:
+            self.logger = LoggerApp()
+            self.f_ = open(
+                os.path.join("Training_logs", "TrainingDatabseInfo.txt"), "a"
+            )
+            self.session = DBconnector().connect()
+            self.logger.log(self.f_, "Database connection is successful")
             self.f_.close()
         except Exception as e:
             self.logger.log(file_object=self.f_, log_massage="Exception : " + str(e))
@@ -102,16 +116,13 @@ class Database_Operations:
                 data = pd.read_csv(f_path, sep="\s+", header=None, names=col_names)
                 a = data.values
                 try:
-                    for record in a:
-                        l = list(record)
-                        Query_2 = (
-                            f"insert into {self.Good_training_TableName} (unit_nr,time_cycles,setting_1,setting_2,setting_3,"\
-                            f"s_1,s_2,s_3,s_4,s_5,s_6,s_7,s_8,s_9,s_10,s_11,s_12,s_13,s_14,s_15,s_16,s_17,s_18,s_19,s_20,s_21)"\
-                            f" VALUES ({l[0]},{(l[1])},{l[2]},{l[3]},{l[4]},{l[5]},{l[6]},{l[7]},{l[8]},"\
-                            f"{l[9]},{l[10]},{l[11]},{l[12]},{l[13]},{l[14]},{l[15]},{l[16]},{l[17]},"\
-                            f"{l[18]},{l[19]},{l[20]},{l[21]},{l[22]},{l[23]},{l[24]},{l[25]});"
-                        )
-                        self.session.execute(Query_2)
+                    prepared = self.session.prepare(
+                        f"INSERT INTO {self.Good_training_TableName} (unit_nr,time_cycles,setting_1,setting_2,setting_3,"
+                        f"s_1,s_2,s_3,s_4,s_5,s_6,s_7,s_8,s_9,s_10,s_11,s_12,s_13,s_14,s_15,s_16,s_17,s_18,s_19,s_20,s_21)"
+                        f" VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)"
+                    )
+                    execute_concurrent_with_args(self.session, prepared, a)
+
 
                     self.logger.log(
                         log_f, log_massage="Data Uploaded successfully ...."

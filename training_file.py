@@ -4,6 +4,7 @@ from Data_Ingestion import data_loader
 from Data_Preprocessing import preprocessing
 from Model_Finder import model
 from Save_Model import save_methods
+import add_rul as add_rul
 from sklearn.model_selection import train_test_split
 from application_logging.logging import LoggerApp
 import warnings
@@ -49,6 +50,9 @@ class training:
             # Getting the data from the source
             data_getter = data_loader.Data_Getter()
             data = data_getter.get_data()
+
+            # add RUL
+            data = add_rul.add_remaining_useful_life(data)
 
             # data preprocessing
             preprocessor = preprocessing.Preprocessor()

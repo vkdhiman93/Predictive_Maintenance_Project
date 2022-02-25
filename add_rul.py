@@ -2,21 +2,23 @@ import pandas as pd
 import os
 
 # define filepath to read data
-dir_path = './Training_FileFromDB/'
+## dir_path = './Training_FileFromDB/'
 
 # define column names for easy indexing
-index_names = ['unit_nr', 'time_cycles']
-setting_names = ['setting_1', 'setting_2', 'setting_3']
-sensor_names = ['s_{}'.format(i) for i in range(1, 22)]
-col_names = index_names + setting_names + sensor_names
+# index_names = ['unit_nr', 'time_cycles']
+# setting_names = ['setting_1', 'setting_2', 'setting_3']
+# sensor_names = ['s_{}'.format(i) for i in range(1, 22)]
+# col_names = index_names + setting_names + sensor_names
 
 # read data
-train = pd.read_csv((dir_path+'train_FD001.txt'), sep='\s+', header=None, names=col_names)
-test = pd.read_csv((dir_path+'test_FD001.txt'), sep='\s+', header=None, names=col_names)
-y_test = pd.read_csv((dir_path+'RUL_FD001.txt'), sep='\s+', header=None, names=['RUL'])
+## train = pd.read_csv((dir_path+'InputFile.csv'))
+# test = pd.read_csv((dir_path+'test_FD001.txt'), sep='\s+', header=None, names=col_names)
+# y_test = pd.read_csv((dir_path+'RUL_FD001.txt'), sep='\s+', header=None, names=['RUL'])
 
 
 def add_remaining_useful_life(df):
+
+    dir_path = './Training_FileFromDB/'
     # Get the total number of cycles for each unit
     grouped_by_unit = df.groupby(by="unit_nr")
     max_cycle = grouped_by_unit["time_cycles"].max()
@@ -36,6 +38,6 @@ def add_remaining_useful_life(df):
     return result_frame
 
 
-train = add_remaining_useful_life(train)
+# train = add_remaining_useful_life(train)
 
 

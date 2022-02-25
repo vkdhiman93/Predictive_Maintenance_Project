@@ -1,6 +1,6 @@
 from Training_Database_Operations.Database_handler import Database_Operations
 from application_logging.logging import LoggerApp
-import os
+import os, threading
 
 
 class Main_trainingDataValidation:
@@ -28,11 +28,15 @@ class Main_trainingDataValidation:
         self.logger.log(log_f, log_massage='Training DB Operations started..')
         self.logger.log(log_f, log_massage='Connecting with database..')
         try:
-            
+            # Creating Database connection
+            self.Database_operations.dbconnect()
+            self.logger.log(log_f, log_massage='Database connection is successful')
             # creating GoodTraining table to store validated data (Good Data)
             self.Database_operations.CreateGoodTraining_table()
+
             self.logger.log(log_f, log_massage="Good Training Table Created Successfully....")
             self.logger.log(log_f, log_massage=" Inserting Good Data to the Table ....")
+            
             self.Database_operations.DataInsertion()
             self.logger.log(log_f, log_massage="Database Insertion is Completed ....")
 

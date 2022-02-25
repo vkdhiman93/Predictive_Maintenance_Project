@@ -56,7 +56,7 @@ class DBconnector:
             auth_provider = PlainTextAuthProvider(self.client_id, self.client_sec)
             cluster = Cluster(cloud=cloud_config, auth_provider=auth_provider)
             session = cluster.connect()
-            session.default_timeout = 60
+            # session.default_timeout = 60
             row = session.execute("select release_version from system.local").one()
             if row:
                 self.logger.log(self.f, ' DataBase Connected successfully....!')
