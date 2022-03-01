@@ -54,4 +54,4 @@ link : https://predictive-maintenance-project.herokuapp.com/ <br>
 * pandas is used for Manipulation and wrangling structured data
 * scikit-learn is used for machine learning tool kit
 * pickle is used for saving model
-* Lasso Regression, SVR, GridSearchCV were used as the regression algorithms for model building
+* Lasso Regression, SVR with GridSearchCV were used as the regression algorithms for model building
