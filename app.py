@@ -7,7 +7,6 @@ from flask_cors import cross_origin
 from training_db_linkage import Main_trainingDataValidation
 import training_file as train
 import prediction_file as pred
-from Data_Ingestion import data_loader
 from application_logging.logging import LoggerApp
 import os
 import warnings
