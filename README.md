@@ -45,6 +45,8 @@ link : https://predictive-maintenance-project.herokuapp.com/ <br>
 #### 1) Home Page:
 ![Home Page](https://user-images.githubusercontent.com/65784413/156516622-6855a63c-5aa8-4fc0-906c-9bde69044108.png)
 
+#### 3) Training:
+![Training](https://user-images.githubusercontent.com/65784413/156574546-682e12d2-8f89-4a41-b486-a369014e4f06.png)
 
 #### 2) Prediction:
 ![Prediction](https://user-images.githubusercontent.com/65784413/156516644-1c4b70b7-742c-427b-ad83-bfd6b9931eba.png)
