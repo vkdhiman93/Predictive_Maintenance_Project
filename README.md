@@ -41,6 +41,15 @@ link : https://predictive-maintenance-project.herokuapp.com/ <br>
 ## WorkFlow
 ![ML_Project_Workflow](https://user-images.githubusercontent.com/65784413/156510445-3f818ee5-5af9-423b-aba2-930afdbc0511.png)
 
+# Snippets of Project
+#### 1) Home Page:
+![Home Page](https://user-images.githubusercontent.com/65784413/156516622-6855a63c-5aa8-4fc0-906c-9bde69044108.png)
+
+
+#### 2) Prediction:
+![Prediction](https://user-images.githubusercontent.com/65784413/156516644-1c4b70b7-742c-427b-ad83-bfd6b9931eba.png)
+
+
 # Technologies & Packages Used
 
 
