@@ -1,13 +1,14 @@
+from Training_DataValidation.RawTrainingValidation import Raw_Data_validation
 from Training_Database_Operations.Database_handler import Database_Operations
 from application_logging.logging import LoggerApp
-import os, threading
+import os
 
 
 class Main_trainingDataValidation:
     def __init__(self):
         self.logger = LoggerApp()
         self.Database_operations = Database_Operations()
-        
+        self.raw_data_validation = Raw_Data_validation(path='./Training_batch_files/')
         self.logger_file = os.path.join("Training_Logs","TrainingMainLog.txt")
 
     def train_validation(self):
@@ -28,6 +29,14 @@ class Main_trainingDataValidation:
         self.logger.log(log_f, log_massage='Training DB Operations started..')
         self.logger.log(log_f, log_massage='Connecting with database..')
         try:
+            column_names, noofcolumns = self.raw_data_validation.valuesFromSchema()
+            manual_regx = self.raw_data_validation.manualRegexCreation()
+            # validate fIle name
+            self.raw_data_validation.validationFileNameRaw(manual_regx)
+            # validating the column lengths
+            self.raw_data_validation.validateColumnLength(noofcolumns)
+            # validating
+            self.raw_data_validation.validateMissingValuesInWholeColumn()
             # Creating Database connection
             self.Database_operations.dbconnect()
             self.logger.log(log_f, log_massage='Database connection is successful')

@@ -18,7 +18,7 @@ class Database_Operations:
                 os.path.join("Training_logs", "TrainingDatabseInfo.txt"), "a"
             )
 
-            self.goodfilepath = os.path.join("Training_Raw_files")
+            self.goodfilepath = os.path.join("Training_Raw_files_validated", "Good_Raw")
 
             self.yaml_path = os.path.join("Controllers", "DBconnection_info.yaml")
             # self.session = DBconnector().connect()
