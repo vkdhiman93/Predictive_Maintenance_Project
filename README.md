@@ -38,7 +38,10 @@ The objective of the project is to predict the number of remaining operational c
  ## Deployment Links (Heroku)
 link : https://predictive-maintenance-project.herokuapp.com/ <br>
 
-# Technologies Used
+## WorkFlow
+ ![This image depicts the Workflow](https://drive.google.com/file/d/1EVxu50TkZ5fVEramafCjIB5bH4zcQcAh/view?usp=sharing)
+
+# Technologies & Packages Used
 
 * VSCode, Pycharm used for IDE.
 * For Visualization Of The Plots Matplotlib , Seaborn Are Used.
