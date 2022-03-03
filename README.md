@@ -70,3 +70,61 @@ link : https://predictive-maintenance-project.herokuapp.com/ <br>
 * scikit-learn is used for machine learning tool kit
 * pickle is used for saving model
 * Lasso Regression, SVR with GridSearchCV were used as the regression algorithms for model building
+
+## Run Locally
+
+Clone the project
+
+```bash
+git clone https://github.com/vkdhiman93/Predictive_Maintenance_Project.git
+```
+
+Go to the project directory
+
+```bash
+cd Predictive_Maintenance_Project
+```
+
+Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+
+Start the server
+
+```bash
+python app.py
+```
+
+
+## Usage
+
+In Development If You Want to contribute? Great!
+
+To fix a bug or enhance an existing module, follow these steps:
+
+* Fork the repo
+
+* Create a new branch
+```javascript
+git checkout -b new-branch
+```
+
+* Make the appropriate changes in the file
+
+* Commit your changes
+```javascript
+git commit -am "New feature added"
+```
+
+* Push to the branch
+```javascript
+git push origin new-branch
+```
+
+* Create a pull request
+```javascript
+git pull
+```
