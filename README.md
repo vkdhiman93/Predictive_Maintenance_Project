@@ -39,9 +39,10 @@ The objective of the project is to predict the number of remaining operational c
 link : https://predictive-maintenance-project.herokuapp.com/ <br>
 
 ## WorkFlow
- ![This image depicts the Workflow](https://drive.google.com/file/d/1EVxu50TkZ5fVEramafCjIB5bH4zcQcAh/view?usp=sharing)
+![ML_Project_Workflow](https://user-images.githubusercontent.com/65784413/156510445-3f818ee5-5af9-423b-aba2-930afdbc0511.png)
 
 # Technologies & Packages Used
+
 
 * VSCode, Pycharm used for IDE.
 * For Visualization Of The Plots Matplotlib , Seaborn Are Used.
