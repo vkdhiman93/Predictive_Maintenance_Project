@@ -7,7 +7,7 @@ from Tools.YamlParser import YamlParser
 import csv
 import os
 import pandas as pd
-from pathlib import Path
+# from pathlib import Path
 
 
 class Database_Operations:
@@ -15,7 +15,7 @@ class Database_Operations:
         try:
             self.logger = LoggerApp()
             self.f_ = open(
-                os.path.join("Training_logs", "TrainingDatabseInfo.txt"), "a"
+                os.path.join("Training_Logs", "TrainingDatabseInfo.txt"), "a"
             )
 
             self.goodfilepath = os.path.join("Training_Raw_files_validated", "Good_Raw")
