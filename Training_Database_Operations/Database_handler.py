@@ -59,7 +59,7 @@ class Database_Operations:
         """
         try:
             self.f_ = open(
-                os.path.join("Training_logs", "TrainingDatabseInfo.txt"), "a"
+                os.path.join("Training_Logs", "TrainingDatabseInfo.txt"), "a"
             )
             self.logger.log(
                 self.f_, "Entered into the class : CreateGoodTraining_table ...."
