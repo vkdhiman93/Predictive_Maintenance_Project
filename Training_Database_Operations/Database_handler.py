@@ -39,7 +39,7 @@ class Database_Operations:
         try:
             self.logger = LoggerApp()
             self.f_ = open(
-                os.path.join("Training_logs", "TrainingDatabseInfo.txt"), "a"
+                os.path.join("Training_Logs", "TrainingDatabseInfo.txt"), "a"
             )
             self.session = DBconnector().connect()
             self.logger.log(self.f_, "Database connection is successful")
