@@ -120,7 +120,7 @@ class ModelFinder:
                 scoring="r2",
                 cv=5,
                 verbose=5,
-                n_jobs=-1
+                n_jobs=4
             )
 
             # finding the best parameter
