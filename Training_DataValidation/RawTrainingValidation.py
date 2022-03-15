@@ -264,7 +264,8 @@ class Raw_Data_validation:
                     self.logger.log(f,
                                     "Invalid Column Length for the file!! File moved to Bad Raw Folder :: %s" % file_)
             self.logger.log(f, "Column Length Validation Completed!!")
-
+            f.close()
+            
         except OSError:
             f = open(os.path.join("Training_Logs", "columnValidationLog.txt"), 'a+')
             self.logger.log(f, "Error Occurred while moving the file :: %s" % OSError)
@@ -276,7 +277,7 @@ class Raw_Data_validation:
             self.logger.log(f, "Error Occurred:: %s" % e)
             f.close()
             raise e
-        f.close()
+        
 
     def validateMissingValuesInWholeColumn(self):
         """
