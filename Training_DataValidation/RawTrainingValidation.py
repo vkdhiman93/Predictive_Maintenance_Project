@@ -149,7 +149,7 @@ class Raw_Data_validation:
                 log_file.close()
 
         except OSError as s:
-            er_file = open(os.path.join("Training_Logs", "GeneralLog.txt"), 'a+')
+            log_file = open(os.path.join("Training_Logs", "GeneralLog.txt"), 'a+')
             self.logger.log(log_file, "Error while Deleting Directory : " + str(s))
             log_file.close()
             raise OSError
