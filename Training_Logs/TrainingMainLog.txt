@@ -1,0 +1,19 @@
+2022-03-03/17:32:52		Training DB Operations started..
+
+2022-03-03/17:32:52		Connecting with database..
+
+2022-03-03/17:33:05		Database connection is successful
+
+2022-03-03/17:33:06		Good Training Table Created Successfully....
+
+2022-03-03/17:33:06		 Inserting Good Data to the Table ....
+
+2022-03-03/17:34:08		Database Insertion is Completed ....
+
+2022-03-03/17:34:08		Extracting the Good data  from Database....
+
+2022-03-03/17:34:30		Data Extraction is completed stored in InputFile.csv ....
+
+2022-03-03/17:34:30		Data Validation Completed Successfully
+
+2022-03-03/17:39:26		Model Training Completed Successfully
