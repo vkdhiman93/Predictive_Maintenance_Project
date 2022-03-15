@@ -193,7 +193,6 @@ class ModelFinder:
                 "Train and Test Accuracy difference for Lasso Regression Model :"
                 + str(self.diff_lasso),
             )
-            self.logfile.close()
             # create best model for SVRegression
             self.svr = self.get_best_params_for_SVR(x_train, y_train)
             self.prediction_svr = self.svr.predict(x_test)
