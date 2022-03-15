@@ -8,7 +8,7 @@ class Main_trainingDataValidation:
     def __init__(self):
         self.logger = LoggerApp()
         self.Database_operations = Database_Operations()
-        self.raw_data_validation = Raw_Data_validation(path='./Training_batch_files/')
+        self.raw_data_validation = Raw_Data_validation(path='./Training_Batch_Files/')
         self.logger_file = os.path.join("Training_Logs","TrainingMainLog.txt")
 
     def train_validation(self):
