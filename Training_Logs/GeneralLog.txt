@@ -218,3 +218,75 @@
 2022-02-21/22:10:17		Entered the get_data method of the Data_Getter class
 
 2022-02-21/22:10:17		Data Load Successful.Exited the get_data method of the Data_Getter class
+
+2022-02-22/15:50:39		Entered the get_test_data method of the Data_Getter class
+
+2022-02-22/15:50:39		Data Load Successful.Exited the get_test_data method of the Data_Getter class
+
+2022-02-22/15:50:46		Entered the get_data method of the Data_Getter class
+
+2022-02-22/15:50:46		Data Load Successful.Exited the get_data method of the Data_Getter class
+
+2022-02-23/16:59:49		Entered the get_test_data method of the Data_Getter class
+
+2022-02-23/16:59:49		Data Load Successful.Exited the get_test_data method of the Data_Getter class
+
+2022-02-25/12:21:00		Entered the get_data method of the Data_Getter class
+
+2022-02-25/12:21:00		Data Load Successful.Exited the get_data method of the Data_Getter class
+
+2022-02-25/12:48:10		Entered the get_data method of the Data_Getter class
+
+2022-02-25/12:48:11		Data Load Successful.Exited the get_data method of the Data_Getter class
+
+2022-02-25/18:18:17		Entered the get_data method of the Data_Getter class
+
+2022-02-25/18:18:17		Data Load Successful.Exited the get_data method of the Data_Getter class
+
+2022-03-01/16:58:29		Entered the get_data method of the Data_Getter class
+
+2022-03-01/16:58:29		Data Load Successful.Exited the get_data method of the Data_Getter class
+
+2022-03-01/17:06:04		Entered the get_test_data method of the Data_Getter class
+
+2022-03-01/17:06:04		Data Load Successful.Exited the get_test_data method of the Data_Getter class
+
+2022-03-03/12:53:15		Entered the get_test_data method of the Data_Getter class
+
+2022-03-03/12:53:16		Data Load Successful.Exited the get_test_data method of the Data_Getter class
+
+2022-03-03/17:08:54		Bad_Raw directory deleted successfully!!!
+
+2022-03-03/17:08:54		GoodRaw directory deleted successfully!!!
+
+2022-03-03/17:14:44		Bad_Raw directory deleted successfully!!!
+
+2022-03-03/17:14:44		GoodRaw directory deleted successfully!!!
+
+2022-03-03/17:15:37		Bad_Raw directory deleted successfully!!!
+
+2022-03-03/17:15:37		GoodRaw directory deleted successfully!!!
+
+2022-03-03/17:31:09		Bad_Raw directory deleted successfully!!!
+
+2022-03-03/17:31:09		GoodRaw directory deleted successfully!!!
+
+2022-03-03/17:31:18		Bad_Raw directory deleted successfully!!!
+
+2022-03-03/17:31:18		GoodRaw directory deleted successfully!!!
+
+2022-03-03/17:31:58		Bad_Raw directory deleted successfully!!!
+
+2022-03-03/17:31:58		GoodRaw directory deleted successfully!!!
+
+2022-03-03/17:32:10		Bad_Raw directory deleted successfully!!!
+
+2022-03-03/17:32:10		GoodRaw directory deleted successfully!!!
+
+2022-03-03/17:32:52		Bad_Raw directory deleted successfully!!!
+
+2022-03-03/17:32:52		GoodRaw directory deleted successfully!!!
+
+2022-03-03/17:34:30		Entered the get_data method of the Data_Getter class
+
+2022-03-03/17:34:30		Data Load Successful.Exited the get_data method of the Data_Getter class

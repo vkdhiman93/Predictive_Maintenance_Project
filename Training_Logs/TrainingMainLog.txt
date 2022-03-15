@@ -66,3 +66,747 @@
 2022-02-21/22:10:17		Data Validation Completed Successfully
 
 2022-02-21/22:14:34		Model Training Completed Successfully
+
+2022-02-22/15:50:46		Data Validation Completed Successfully
+
+2022-02-22/15:56:21		Model Training Completed Successfully
+
+2022-02-23/13:08:52		
+
+
+
+2022-02-23/13:08:52		Training DB Operations started..
+
+2022-02-23/13:08:52		Connecting with database..
+
+2022-02-23/13:08:55		Good Training Table Created Successfully....
+
+2022-02-23/13:08:55		 Inserting Good Data to the Table ....
+
+2022-02-23/13:08:55		Exception  : [WinError 3] The system cannot find the path specified: 'Training_Raw_files\\train_FD001'
+
+2022-02-23/13:08:55		This is a problem with Model Training[WinError 3] The system cannot find the path specified: 'Training_Raw_files\\train_FD001'
+
+2022-02-23/13:10:49		
+
+
+
+2022-02-23/13:10:49		Training DB Operations started..
+
+2022-02-23/13:10:49		Connecting with database..
+
+2022-02-23/13:10:50		Good Training Table Created Successfully....
+
+2022-02-23/13:10:50		 Inserting Good Data to the Table ....
+
+2022-02-23/13:10:50		Exception  : [WinError 267] The directory name is invalid: 'Training_Raw_files\\train_FD001.txt'
+
+2022-02-23/13:10:50		This is a problem with Model Training[WinError 267] The directory name is invalid: 'Training_Raw_files\\train_FD001.txt'
+
+2022-02-23/13:15:35		
+
+
+
+2022-02-23/13:15:35		Training DB Operations started..
+
+2022-02-23/13:15:35		Connecting with database..
+
+2022-02-23/13:15:36		Good Training Table Created Successfully....
+
+2022-02-23/13:15:36		 Inserting Good Data to the Table ....
+
+2022-02-23/13:15:37		Exception  : <Error from server: code=2000 [Syntax error in CQL query] message="line 1:435 no viable alternative at input ')' (...,  '8138.62' ,  '8.4195' , [)]...)">
+
+2022-02-23/13:15:37		This is a problem with Model Training<Error from server: code=2000 [Syntax error in CQL query] message="line 1:435 no viable alternative at input ')' (...,  '8138.62' ,  '8.4195' , [)]...)">
+
+2022-02-23/13:27:58		
+
+
+
+2022-02-23/13:27:58		Training DB Operations started..
+
+2022-02-23/13:27:58		Connecting with database..
+
+2022-02-23/13:27:59		Good Training Table Created Successfully....
+
+2022-02-23/13:27:59		 Inserting Good Data to the Table ....
+
+2022-02-23/13:28:00		Exception  : <Error from server: code=2000 [Syntax error in CQL query] message="line 1:435 no viable alternative at input ')' (...,  '8138.62' ,  '8.4195' , [)]...)">
+
+2022-02-23/13:28:00		This is a problem with Model Training<Error from server: code=2000 [Syntax error in CQL query] message="line 1:435 no viable alternative at input ')' (...,  '8138.62' ,  '8.4195' , [)]...)">
+
+2022-02-23/13:35:11		
+
+
+
+2022-02-23/13:35:11		Training DB Operations started..
+
+2022-02-23/13:35:11		Connecting with database..
+
+2022-02-23/13:35:12		Good Training Table Created Successfully....
+
+2022-02-23/13:35:12		 Inserting Good Data to the Table ....
+
+2022-02-23/13:35:13		Exception  : <Error from server: code=2000 [Syntax error in CQL query] message="line 1:383 no viable alternative at input ')' (..., '521.66' , '2388.02' , [)]...)">
+
+2022-02-23/13:35:13		This is a problem with Model Training<Error from server: code=2000 [Syntax error in CQL query] message="line 1:383 no viable alternative at input ')' (..., '521.66' , '2388.02' , [)]...)">
+
+2022-02-23/13:41:34		
+
+
+
+2022-02-23/13:41:34		Training DB Operations started..
+
+2022-02-23/13:41:34		Connecting with database..
+
+2022-02-23/13:41:35		Good Training Table Created Successfully....
+
+2022-02-23/13:41:35		 Inserting Good Data to the Table ....
+
+2022-02-23/13:41:36		Exception  : <Error from server: code=2000 [Syntax error in CQL query] message="line 1:383 no viable alternative at input ')' (..., '521.66' , '2388.02' , [)]...)">
+
+2022-02-23/13:41:36		This is a problem with Model Training<Error from server: code=2000 [Syntax error in CQL query] message="line 1:383 no viable alternative at input ')' (..., '521.66' , '2388.02' , [)]...)">
+
+2022-02-23/13:45:24		
+
+
+
+2022-02-23/13:45:24		Training DB Operations started..
+
+2022-02-23/13:45:24		Connecting with database..
+
+2022-02-23/13:45:25		Good Training Table Created Successfully....
+
+2022-02-23/13:45:25		 Inserting Good Data to the Table ....
+
+2022-02-23/13:45:26		Exception  : <Error from server: code=2000 [Syntax error in CQL query] message="line 1:389 no viable alternative at input ')' (..., '521.66' , '2388.02' , [)]...)">
+
+2022-02-23/13:45:26		This is a problem with Model Training<Error from server: code=2000 [Syntax error in CQL query] message="line 1:389 no viable alternative at input ')' (..., '521.66' , '2388.02' , [)]...)">
+
+2022-02-23/13:50:16		
+
+
+
+2022-02-23/13:50:16		Training DB Operations started..
+
+2022-02-23/13:50:16		Connecting with database..
+
+2022-02-23/13:50:17		Good Training Table Created Successfully....
+
+2022-02-23/13:50:17		 Inserting Good Data to the Table ....
+
+2022-02-23/13:50:18		Exception  : <Error from server: code=2000 [Syntax error in CQL query] message="line 1:343 no viable alternative at input ')' (...'9046.19','1.3','47.47','521.66','2388.02',[)]...)">
+
+2022-02-23/13:50:18		This is a problem with Model Training<Error from server: code=2000 [Syntax error in CQL query] message="line 1:343 no viable alternative at input ')' (...'9046.19','1.3','47.47','521.66','2388.02',[)]...)">
+
+2022-02-23/13:52:39		
+
+
+
+2022-02-23/13:52:39		Training DB Operations started..
+
+2022-02-23/13:52:39		Connecting with database..
+
+2022-02-23/13:52:40		Good Training Table Created Successfully....
+
+2022-02-23/13:52:40		 Inserting Good Data to the Table ....
+
+2022-02-23/13:52:41		Exception  : <Error from server: code=2000 [Syntax error in CQL query] message="line 1:342 no viable alternative at input ')' (...'9046.19','1.3','47.47','521.66','2388.02',[)]...)">
+
+2022-02-23/13:52:41		This is a problem with Model Training<Error from server: code=2000 [Syntax error in CQL query] message="line 1:342 no viable alternative at input ')' (...'9046.19','1.3','47.47','521.66','2388.02',[)]...)">
+
+2022-02-23/14:29:21		
+
+
+
+2022-02-23/14:29:21		Training DB Operations started..
+
+2022-02-23/14:29:21		Connecting with database..
+
+2022-02-23/14:29:22		Good Training Table Created Successfully....
+
+2022-02-23/14:29:22		 Inserting Good Data to the Table ....
+
+2022-02-23/14:29:23		Exception  : <Error from server: code=2000 [Syntax error in CQL query] message="line 1:342 no viable alternative at input ')' (...'9046.19','1.3','47.47','521.66','2388.02',[)]...)">
+
+2022-02-23/14:29:23		This is a problem with Model Training<Error from server: code=2000 [Syntax error in CQL query] message="line 1:342 no viable alternative at input ')' (...'9046.19','1.3','47.47','521.66','2388.02',[)]...)">
+
+2022-02-23/14:30:39		This is a problem with Model Training('Unable to connect to any servers', {'90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:095174d3-3184-4151-84a7-d28a806029cb': OperationTimedOut('errors=None, last_host=None'), '90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:47f9afda-c11a-4d66-91d3-4ebd1e67693f': OperationTimedOut('errors=None, last_host=None'), '90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:a0581dae-856e-4702-a24c-ad57fa16770e': OperationTimedOut('errors=None, last_host=None')})
+
+2022-02-23/14:32:47		This is a problem with Model Training('Unable to connect to any servers', {'90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:095174d3-3184-4151-84a7-d28a806029cb': OperationTimedOut('errors=None, last_host=None'), '90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:47f9afda-c11a-4d66-91d3-4ebd1e67693f': OperationTimedOut('errors=None, last_host=None'), '90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:a0581dae-856e-4702-a24c-ad57fa16770e': OperationTimedOut('errors=None, last_host=None')})
+
+2022-02-23/14:43:07		This is a problem with Model Training('Unable to connect to any servers', {'90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:47f9afda-c11a-4d66-91d3-4ebd1e67693f': OperationTimedOut('errors=None, last_host=None'), '90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:a0581dae-856e-4702-a24c-ad57fa16770e': OperationTimedOut('errors=None, last_host=None'), '90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:095174d3-3184-4151-84a7-d28a806029cb': OperationTimedOut('errors=None, last_host=None')})
+
+2022-02-23/14:44:02		This is a problem with Model Training('Unable to connect to any servers', {'90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:095174d3-3184-4151-84a7-d28a806029cb': OperationTimedOut('errors=None, last_host=None'), '90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:47f9afda-c11a-4d66-91d3-4ebd1e67693f': OperationTimedOut('errors=None, last_host=None'), '90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:a0581dae-856e-4702-a24c-ad57fa16770e': OperationTimedOut('errors=None, last_host=None')})
+
+2022-02-23/14:49:30		This is a problem with Model Training('Unable to connect to any servers', {'90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:095174d3-3184-4151-84a7-d28a806029cb': OperationTimedOut('errors=None, last_host=None'), '90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:47f9afda-c11a-4d66-91d3-4ebd1e67693f': OperationTimedOut('errors=None, last_host=None'), '90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:a0581dae-856e-4702-a24c-ad57fa16770e': OperationTimedOut('errors=None, last_host=None')})
+
+2022-02-23/14:51:44		This is a problem with Model Training('Unable to connect to any servers', {'90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:095174d3-3184-4151-84a7-d28a806029cb': OperationTimedOut('errors=None, last_host=None'), '90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:47f9afda-c11a-4d66-91d3-4ebd1e67693f': OperationTimedOut('errors=None, last_host=None'), '90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:a0581dae-856e-4702-a24c-ad57fa16770e': OperationTimedOut('errors=None, last_host=None')})
+
+2022-02-23/14:55:58		This is a problem with Model Training('Unable to connect to any servers', {'90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:095174d3-3184-4151-84a7-d28a806029cb': OperationTimedOut('errors=None, last_host=None'), '90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:47f9afda-c11a-4d66-91d3-4ebd1e67693f': OperationTimedOut('errors=None, last_host=None'), '90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:a0581dae-856e-4702-a24c-ad57fa16770e': OperationTimedOut('errors=None, last_host=None')})
+
+2022-02-23/14:58:41		This is a problem with Model Training('Unable to connect to any servers', {'90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:a0581dae-856e-4702-a24c-ad57fa16770e': OperationTimedOut('errors=None, last_host=None'), '90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:095174d3-3184-4151-84a7-d28a806029cb': OperationTimedOut('errors=None, last_host=None'), '90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:47f9afda-c11a-4d66-91d3-4ebd1e67693f': OperationTimedOut('errors=None, last_host=None')})
+
+2022-02-23/15:00:03		
+
+
+
+2022-02-23/15:00:03		Training DB Operations started..
+
+2022-02-23/15:00:03		Connecting with database..
+
+2022-02-23/15:00:05		Good Training Table Created Successfully....
+
+2022-02-23/15:00:05		 Inserting Good Data to the Table ....
+
+2022-02-23/15:00:06		Exception  : Error from server: code=2200 [Invalid query] message="Invalid STRING constant (1.0) for "unit_nr" of type int"
+
+2022-02-23/15:00:06		This is a problem with Model TrainingError from server: code=2200 [Invalid query] message="Invalid STRING constant (1.0) for "unit_nr" of type int"
+
+2022-02-23/15:12:25		
+
+
+
+2022-02-23/15:12:25		Training DB Operations started..
+
+2022-02-23/15:12:25		Connecting with database..
+
+2022-02-23/15:12:26		Good Training Table Created Successfully....
+
+2022-02-23/15:12:26		 Inserting Good Data to the Table ....
+
+2022-02-23/15:12:28		Exception  : Error from server: code=2200 [Invalid query] message="Invalid STRING constant (1.0) for "unit_nr" of type int"
+
+2022-02-23/15:12:28		This is a problem with Model TrainingError from server: code=2200 [Invalid query] message="Invalid STRING constant (1.0) for "unit_nr" of type int"
+
+2022-02-23/15:14:48		
+
+
+
+2022-02-23/15:14:48		Training DB Operations started..
+
+2022-02-23/15:14:48		Connecting with database..
+
+2022-02-23/15:14:49		Good Training Table Created Successfully....
+
+2022-02-23/15:14:49		 Inserting Good Data to the Table ....
+
+2022-02-23/15:14:50		Exception  : Error from server: code=2200 [Invalid query] message="Invalid STRING constant (1.0) for "unit_nr" of type int"
+
+2022-02-23/15:14:50		This is a problem with Model TrainingError from server: code=2200 [Invalid query] message="Invalid STRING constant (1.0) for "unit_nr" of type int"
+
+2022-02-23/15:16:37		
+
+
+
+2022-02-23/15:16:37		Training DB Operations started..
+
+2022-02-23/15:16:37		Connecting with database..
+
+2022-02-23/15:16:38		Good Training Table Created Successfully....
+
+2022-02-23/15:16:38		 Inserting Good Data to the Table ....
+
+2022-02-23/15:16:39		Exception  : Error from server: code=2200 [Invalid query] message="Invalid STRING constant (1.0) for "unit_nr" of type int"
+
+2022-02-23/15:16:39		This is a problem with Model TrainingError from server: code=2200 [Invalid query] message="Invalid STRING constant (1.0) for "unit_nr" of type int"
+
+2022-02-23/15:17:55		
+
+
+
+2022-02-23/15:17:55		Training DB Operations started..
+
+2022-02-23/15:17:55		Connecting with database..
+
+2022-02-23/15:17:56		Good Training Table Created Successfully....
+
+2022-02-23/15:17:56		 Inserting Good Data to the Table ....
+
+2022-02-23/15:17:57		Exception  : Error from server: code=2200 [Invalid query] message="Invalid STRING constant (1.0) for "unit_nr" of type int"
+
+2022-02-23/15:17:57		This is a problem with Model TrainingError from server: code=2200 [Invalid query] message="Invalid STRING constant (1.0) for "unit_nr" of type int"
+
+2022-02-23/15:19:16		
+
+
+
+2022-02-23/15:19:16		Training DB Operations started..
+
+2022-02-23/15:19:16		Connecting with database..
+
+2022-02-23/15:19:17		Good Training Table Created Successfully....
+
+2022-02-23/15:19:17		 Inserting Good Data to the Table ....
+
+2022-02-23/15:19:18		Exception  : Error from server: code=2200 [Invalid query] message="Invalid STRING constant (1.0) for "unit_nr" of type int"
+
+2022-02-23/15:19:18		This is a problem with Model TrainingError from server: code=2200 [Invalid query] message="Invalid STRING constant (1.0) for "unit_nr" of type int"
+
+2022-02-23/15:22:39		
+
+
+
+2022-02-23/15:22:39		Training DB Operations started..
+
+2022-02-23/15:22:39		Connecting with database..
+
+2022-02-23/15:22:40		Good Training Table Created Successfully....
+
+2022-02-23/15:22:40		 Inserting Good Data to the Table ....
+
+2022-02-23/15:22:40		Exception  : Error from server: code=2200 [Invalid query] message="Invalid STRING constant (1.0) for "unit_nr" of type int"
+
+2022-02-23/15:22:40		This is a problem with Model TrainingError from server: code=2200 [Invalid query] message="Invalid STRING constant (1.0) for "unit_nr" of type int"
+
+2022-02-23/15:56:21		This is a problem with Model Training('Unable to connect to any servers', {'90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:095174d3-3184-4151-84a7-d28a806029cb': OperationTimedOut('errors=None, last_host=None'), '90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:47f9afda-c11a-4d66-91d3-4ebd1e67693f': OperationTimedOut('errors=None, last_host=None'), '90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:a0581dae-856e-4702-a24c-ad57fa16770e': OperationTimedOut('errors=None, last_host=None')})
+
+2022-02-23/15:56:51		This is a problem with Model Training('Unable to connect to any servers', {'90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:095174d3-3184-4151-84a7-d28a806029cb': OperationTimedOut('errors=None, last_host=None'), '90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:47f9afda-c11a-4d66-91d3-4ebd1e67693f': OperationTimedOut('errors=None, last_host=None'), '90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:a0581dae-856e-4702-a24c-ad57fa16770e': OperationTimedOut('errors=None, last_host=None')})
+
+2022-02-23/15:57:17		This is a problem with Model Training('Unable to connect to any servers', {'90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:a0581dae-856e-4702-a24c-ad57fa16770e': OperationTimedOut('errors=None, last_host=None'), '90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:095174d3-3184-4151-84a7-d28a806029cb': OperationTimedOut('errors=None, last_host=None'), '90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:47f9afda-c11a-4d66-91d3-4ebd1e67693f': OperationTimedOut('errors=None, last_host=None')})
+
+2022-02-23/15:57:47		This is a problem with Model Training('Unable to connect to any servers', {'90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:a0581dae-856e-4702-a24c-ad57fa16770e': OperationTimedOut('errors=None, last_host=None'), '90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:095174d3-3184-4151-84a7-d28a806029cb': OperationTimedOut('errors=None, last_host=None'), '90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:47f9afda-c11a-4d66-91d3-4ebd1e67693f': OperationTimedOut('errors=None, last_host=None')})
+
+2022-02-23/15:58:51		
+
+
+
+2022-02-23/15:58:51		Training DB Operations started..
+
+2022-02-23/15:58:51		Connecting with database..
+
+2022-02-23/15:58:54		Good Training Table Created Successfully....
+
+2022-02-23/15:58:54		 Inserting Good Data to the Table ....
+
+2022-02-23/15:58:55		Exception  : Error from server: code=2200 [Invalid query] message="Invalid STRING constant (1.0) for "unit_nr" of type float"
+
+2022-02-23/15:58:55		This is a problem with Model TrainingError from server: code=2200 [Invalid query] message="Invalid STRING constant (1.0) for "unit_nr" of type float"
+
+2022-02-23/16:24:38		
+
+
+
+2022-02-23/16:24:38		Training DB Operations started..
+
+2022-02-23/16:24:38		Connecting with database..
+
+2022-02-23/16:24:39		Good Training Table Created Successfully....
+
+2022-02-23/16:24:39		 Inserting Good Data to the Table ....
+
+2022-02-23/16:24:40		Exception  : Error from server: code=2200 [Invalid query] message="Invalid STRING constant (1.0) for "unit_nr" of type float"
+
+2022-02-23/16:24:40		This is a problem with Model TrainingError from server: code=2200 [Invalid query] message="Invalid STRING constant (1.0) for "unit_nr" of type float"
+
+2022-02-23/16:26:39		This is a problem with Model Training('Unable to connect to any servers', {'90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:47f9afda-c11a-4d66-91d3-4ebd1e67693f': OperationTimedOut('errors=None, last_host=None'), '90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:a0581dae-856e-4702-a24c-ad57fa16770e': OperationTimedOut('errors=None, last_host=None'), '90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:095174d3-3184-4151-84a7-d28a806029cb': OperationTimedOut('errors=None, last_host=None')})
+
+2022-02-23/16:27:11		This is a problem with Model Training('Unable to connect to any servers', {'90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:a0581dae-856e-4702-a24c-ad57fa16770e': OperationTimedOut('errors=None, last_host=None'), '90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:095174d3-3184-4151-84a7-d28a806029cb': OperationTimedOut('errors=None, last_host=None'), '90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:47f9afda-c11a-4d66-91d3-4ebd1e67693f': OperationTimedOut('errors=Timed out creating connection (5 seconds), last_host=None')})
+
+2022-02-23/16:29:07		
+
+
+
+2022-02-23/16:29:07		Training DB Operations started..
+
+2022-02-23/16:29:07		Connecting with database..
+
+2022-02-23/16:29:08		Good Training Table Created Successfully....
+
+2022-02-23/16:29:08		 Inserting Good Data to the Table ....
+
+2022-02-23/16:29:09		Exception  : Error from server: code=2200 [Invalid query] message="Invalid STRING constant (1.0) for "unit_nr" of type float"
+
+2022-02-23/16:29:09		This is a problem with Model TrainingError from server: code=2200 [Invalid query] message="Invalid STRING constant (1.0) for "unit_nr" of type float"
+
+2022-02-23/16:33:38		
+
+
+
+2022-02-23/16:33:38		Training DB Operations started..
+
+2022-02-23/16:33:38		Connecting with database..
+
+2022-02-23/16:33:39		Good Training Table Created Successfully....
+
+2022-02-23/16:33:39		 Inserting Good Data to the Table ....
+
+2022-02-23/16:33:41		Exception  : <Error from server: code=2000 [Syntax error in CQL query] message="line 1:359 mismatched character '<EOF>' expecting '''">
+
+2022-02-23/16:33:41		This is a problem with Model Training<Error from server: code=2000 [Syntax error in CQL query] message="line 1:359 mismatched character '<EOF>' expecting '''">
+
+2022-02-23/16:35:23		This is a problem with Model Training('Unable to connect to any servers', {'90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:a0581dae-856e-4702-a24c-ad57fa16770e': OperationTimedOut('errors=None, last_host=None'), '90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:47f9afda-c11a-4d66-91d3-4ebd1e67693f': OperationTimedOut('errors=None, last_host=None'), '90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:095174d3-3184-4151-84a7-d28a806029cb': OperationTimedOut('errors=None, last_host=None')})
+
+2022-02-24/17:22:54		
+
+
+
+2022-02-24/17:22:54		Training DB Operations started..
+
+2022-02-24/17:22:54		Connecting with database..
+
+2022-02-24/17:22:55		Good Training Table Created Successfully....
+
+2022-02-24/17:22:55		 Inserting Good Data to the Table ....
+
+2022-02-24/20:09:05		Exception  : errors={'90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:47f9afda-c11a-4d66-91d3-4ebd1e67693f': 'Client request timeout. See Session.execute[_async](timeout)'}, last_host=90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:47f9afda-c11a-4d66-91d3-4ebd1e67693f
+
+2022-02-24/20:09:05		This is a problem with Model Trainingerrors={'90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:47f9afda-c11a-4d66-91d3-4ebd1e67693f': 'Client request timeout. See Session.execute[_async](timeout)'}, last_host=90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:47f9afda-c11a-4d66-91d3-4ebd1e67693f
+
+2022-02-24/20:28:32		
+
+
+
+2022-02-24/20:28:32		Training DB Operations started..
+
+2022-02-24/20:28:32		Connecting with database..
+
+2022-02-24/20:28:33		Good Training Table Created Successfully....
+
+2022-02-24/20:28:33		 Inserting Good Data to the Table ....
+
+2022-02-24/20:43:42		Exception  : errors={'90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:a0581dae-856e-4702-a24c-ad57fa16770e': 'Client request timeout. See Session.execute[_async](timeout)'}, last_host=90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:a0581dae-856e-4702-a24c-ad57fa16770e
+
+2022-02-24/20:43:42		This is a problem with Model Trainingerrors={'90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:a0581dae-856e-4702-a24c-ad57fa16770e': 'Client request timeout. See Session.execute[_async](timeout)'}, last_host=90af8541-bdd9-43e2-87ce-cb9ec9f3d05e-asia-south1.db.astra.datastax.com:29042:a0581dae-856e-4702-a24c-ad57fa16770e
+
+2022-02-24/21:39:16		
+
+
+
+2022-02-24/21:39:16		Training DB Operations started..
+
+2022-02-24/21:39:16		Connecting with database..
+
+2022-02-24/21:39:19		Good Training Table Created Successfully....
+
+2022-02-24/21:39:19		 Inserting Good Data to the Table ....
+
+2022-02-24/22:12:16		Exception  : errors={'8e4db055-5054-49d0-a60c-b5c57d0dab86-us-east1.db.astra.datastax.com:29042:7bf90023-8e00-4145-8f3e-b11ea990517b': 'Client request timeout. See Session.execute[_async](timeout)'}, last_host=8e4db055-5054-49d0-a60c-b5c57d0dab86-us-east1.db.astra.datastax.com:29042:7bf90023-8e00-4145-8f3e-b11ea990517b
+
+2022-02-24/22:12:16		This is a problem with Model Trainingerrors={'8e4db055-5054-49d0-a60c-b5c57d0dab86-us-east1.db.astra.datastax.com:29042:7bf90023-8e00-4145-8f3e-b11ea990517b': 'Client request timeout. See Session.execute[_async](timeout)'}, last_host=8e4db055-5054-49d0-a60c-b5c57d0dab86-us-east1.db.astra.datastax.com:29042:7bf90023-8e00-4145-8f3e-b11ea990517b
+
+2022-02-24/22:25:11		
+
+
+
+2022-02-24/22:25:11		Training DB Operations started..
+
+2022-02-24/22:25:11		Connecting with database..
+
+2022-02-24/22:25:12		Good Training Table Created Successfully....
+
+2022-02-24/22:25:12		 Inserting Good Data to the Table ....
+
+2022-02-25/10:14:21		Exception  : errors={'8e4db055-5054-49d0-a60c-b5c57d0dab86-us-east1.db.astra.datastax.com:29042:18f2a5cd-6c18-4f14-b486-a9dbc5c261d5': 'Client request timeout. See Session.execute[_async](timeout)'}, last_host=8e4db055-5054-49d0-a60c-b5c57d0dab86-us-east1.db.astra.datastax.com:29042:18f2a5cd-6c18-4f14-b486-a9dbc5c261d5
+
+2022-02-25/10:14:21		This is a problem with Model Trainingerrors={'8e4db055-5054-49d0-a60c-b5c57d0dab86-us-east1.db.astra.datastax.com:29042:18f2a5cd-6c18-4f14-b486-a9dbc5c261d5': 'Client request timeout. See Session.execute[_async](timeout)'}, last_host=8e4db055-5054-49d0-a60c-b5c57d0dab86-us-east1.db.astra.datastax.com:29042:18f2a5cd-6c18-4f14-b486-a9dbc5c261d5
+
+2022-02-25/12:06:16		
+
+
+
+2022-02-25/12:06:16		Training DB Operations started..
+
+2022-02-25/12:06:16		Connecting with database..
+
+2022-02-25/12:06:17		Good Training Table Created Successfully....
+
+2022-02-25/12:06:17		 Inserting Good Data to the Table ....
+
+2022-02-25/12:20:10		Database Insertion is Completed ....
+
+2022-02-25/12:20:10		Extracting the Good data  from Database....
+
+2022-02-25/12:20:49		Exception  : ('Unable to complete the operation against any hosts', {<Host: 8e4db055-5054-49d0-a60c-b5c57d0dab86-us-east1.db.astra.datastax.com:29042:33c650af-8c56-4bb3-9716-13c8a515600f us-east1>: ConnectionShutdown('Connection to 8e4db055-5054-49d0-a60c-b5c57d0dab86-us-east1.db.astra.datastax.com:29042:33c650af-8c56-4bb3-9716-13c8a515600f was closed'), <Host: 8e4db055-5054-49d0-a60c-b5c57d0dab86-us-east1.db.astra.datastax.com:29042:7bf90023-8e00-4145-8f3e-b11ea990517b us-east1>: ConnectionShutdown('Connection to 8e4db055-5054-49d0-a60c-b5c57d0dab86-us-east1.db.astra.datastax.com:29042:7bf90023-8e00-4145-8f3e-b11ea990517b was closed'), <Host: 8e4db055-5054-49d0-a60c-b5c57d0dab86-us-east1.db.astra.datastax.com:29042:18f2a5cd-6c18-4f14-b486-a9dbc5c261d5 us-east1>: ConnectionException('Host has been marked down or removed')})
+
+2022-02-25/12:20:49		This is a problem with Model Training('Unable to complete the operation against any hosts', {<Host: 8e4db055-5054-49d0-a60c-b5c57d0dab86-us-east1.db.astra.datastax.com:29042:33c650af-8c56-4bb3-9716-13c8a515600f us-east1>: ConnectionShutdown('Connection to 8e4db055-5054-49d0-a60c-b5c57d0dab86-us-east1.db.astra.datastax.com:29042:33c650af-8c56-4bb3-9716-13c8a515600f was closed'), <Host: 8e4db055-5054-49d0-a60c-b5c57d0dab86-us-east1.db.astra.datastax.com:29042:7bf90023-8e00-4145-8f3e-b11ea990517b us-east1>: ConnectionShutdown('Connection to 8e4db055-5054-49d0-a60c-b5c57d0dab86-us-east1.db.astra.datastax.com:29042:7bf90023-8e00-4145-8f3e-b11ea990517b was closed'), <Host: 8e4db055-5054-49d0-a60c-b5c57d0dab86-us-east1.db.astra.datastax.com:29042:18f2a5cd-6c18-4f14-b486-a9dbc5c261d5 us-east1>: ConnectionException('Host has been marked down or removed')})
+
+2022-02-25/11:58:14		
+
+
+
+2022-02-25/11:58:14		Training DB Operations started..
+
+2022-02-25/11:58:14		Connecting with database..
+
+2022-02-25/11:58:15		Good Training Table Created Successfully....
+
+2022-02-25/11:58:15		 Inserting Good Data to the Table ....
+
+2022-02-25/12:20:10		Database Insertion is Completed ....
+
+2022-02-25/12:20:10		Extracting the Good data  from Database....
+
+2022-02-25/12:21:00		Data Extraction is completed stored in InputFile.csv ....
+
+2022-02-25/12:21:00		Data Validation Completed Successfully
+
+2022-02-25/12:24:14		Model Training Completed Successfully
+
+2022-02-25/12:21:57		
+
+
+
+2022-02-25/12:21:57		Training DB Operations started..
+
+2022-02-25/12:21:57		Connecting with database..
+
+2022-02-25/12:21:59		Good Training Table Created Successfully....
+
+2022-02-25/12:21:59		 Inserting Good Data to the Table ....
+
+2022-02-25/12:47:46		Database Insertion is Completed ....
+
+2022-02-25/12:47:46		Extracting the Good data  from Database....
+
+2022-02-25/12:48:10		Data Extraction is completed stored in InputFile.csv ....
+
+2022-02-25/12:48:10		Data Validation Completed Successfully
+
+2022-02-25/12:50:53		Model Training Completed Successfully
+
+2022-02-25/13:27:55		
+
+
+
+2022-02-25/13:27:55		Training DB Operations started..
+
+2022-02-25/13:27:55		Connecting with database..
+
+2022-02-25/13:27:55		Exception  : module 'threading' has no attribute 'thread'
+
+2022-02-25/13:27:55		This is a problem with Model Trainingmodule 'threading' has no attribute 'thread'
+
+2022-02-25/13:28:50		
+
+
+
+2022-02-25/13:28:50		Training DB Operations started..
+
+2022-02-25/13:28:50		Connecting with database..
+
+2022-02-25/13:28:50		Exception  : group argument must be None for now
+
+2022-02-25/13:28:50		This is a problem with Model Traininggroup argument must be None for now
+
+2022-02-25/13:35:29		
+
+
+
+2022-02-25/13:35:29		Training DB Operations started..
+
+2022-02-25/13:35:29		Connecting with database..
+
+2022-02-25/13:35:29		Exception  : group argument must be None for now
+
+2022-02-25/13:35:29		This is a problem with Model Traininggroup argument must be None for now
+
+2022-02-25/13:58:52		
+
+
+
+2022-02-25/13:58:52		Training DB Operations started..
+
+2022-02-25/13:58:52		Connecting with database..
+
+2022-02-25/13:58:52		Exception  : group argument must be None for now
+
+2022-02-25/13:58:52		This is a problem with Model Traininggroup argument must be None for now
+
+2022-02-25/18:16:33		
+
+
+
+2022-02-25/18:16:33		Training DB Operations started..
+
+2022-02-25/18:16:33		Connecting with database..
+
+2022-02-25/18:16:45		Database connection is successful
+
+2022-02-25/18:16:49		Good Training Table Created Successfully....
+
+2022-02-25/18:16:49		 Inserting Good Data to the Table ....
+
+2022-02-25/18:17:52		Database Insertion is Completed ....
+
+2022-02-25/18:17:52		Extracting the Good data  from Database....
+
+2022-02-25/18:18:17		Data Extraction is completed stored in InputFile.csv ....
+
+2022-02-25/18:18:17		Data Validation Completed Successfully
+
+2022-02-25/18:22:44		Model Training Completed Successfully
+
+2022-03-01/16:56:05		
+
+
+
+2022-03-01/16:56:05		Training DB Operations started..
+
+2022-03-01/16:56:05		Connecting with database..
+
+2022-03-01/16:56:09		Exception  : Unable to connect to the metadata service at https://8e4db055-5054-49d0-a60c-b5c57d0dab86-us-east1.db.astra.datastax.com:29080/metadata. Check the cluster status in the cloud console. 
+
+2022-03-01/16:56:09		This is a problem with Model TrainingUnable to connect to the metadata service at https://8e4db055-5054-49d0-a60c-b5c57d0dab86-us-east1.db.astra.datastax.com:29080/metadata. Check the cluster status in the cloud console. 
+
+2022-03-01/16:57:05		
+
+
+
+2022-03-01/16:57:05		Training DB Operations started..
+
+2022-03-01/16:57:05		Connecting with database..
+
+2022-03-01/16:57:17		Database connection is successful
+
+2022-03-01/16:57:18		Good Training Table Created Successfully....
+
+2022-03-01/16:57:18		 Inserting Good Data to the Table ....
+
+2022-03-01/16:58:17		Database Insertion is Completed ....
+
+2022-03-01/16:58:17		Extracting the Good data  from Database....
+
+2022-03-01/16:58:29		Data Extraction is completed stored in InputFile.csv ....
+
+2022-03-01/16:58:29		Data Validation Completed Successfully
+
+2022-03-01/17:03:18		Model Training Completed Successfully
+
+2022-03-03/17:01:15		
+
+
+
+2022-03-03/17:01:15		Training DB Operations started..
+
+2022-03-03/17:01:15		Connecting with database..
+
+2022-03-03/17:01:15		Exception  : 
+
+2022-03-03/17:01:15		This is a problem with Model Training
+
+2022-03-03/17:08:54		
+
+
+
+2022-03-03/17:08:54		Training DB Operations started..
+
+2022-03-03/17:08:54		Connecting with database..
+
+2022-03-03/17:09:06		Database connection is successful
+
+2022-03-03/17:09:07		Good Training Table Created Successfully....
+
+2022-03-03/17:09:07		 Inserting Good Data to the Table ....
+
+2022-03-03/17:09:07		Exception  : [WinError 3] The system cannot find the path specified: 'Training_Raw_files'
+
+2022-03-03/17:09:07		This is a problem with Model Training[WinError 3] The system cannot find the path specified: 'Training_Raw_files'
+
+2022-03-03/17:14:44		
+
+
+
+2022-03-03/17:14:44		Training DB Operations started..
+
+2022-03-03/17:14:44		Connecting with database..
+
+2022-03-03/17:14:56		Database connection is successful
+
+2022-03-03/17:14:57		Good Training Table Created Successfully....
+
+2022-03-03/17:14:57		 Inserting Good Data to the Table ....
+
+2022-03-03/17:14:57		Exception  : [WinError 3] The system cannot find the path specified: 'Training_Raw_files_validated\\Good_Raw_files'
+
+2022-03-03/17:14:57		This is a problem with Model Training[WinError 3] The system cannot find the path specified: 'Training_Raw_files_validated\\Good_Raw_files'
+
+2022-03-03/17:15:37		
+
+
+
+2022-03-03/17:15:37		Training DB Operations started..
+
+2022-03-03/17:15:37		Connecting with database..
+
+2022-03-03/17:15:50		Database connection is successful
+
+2022-03-03/17:15:51		Good Training Table Created Successfully....
+
+2022-03-03/17:15:51		 Inserting Good Data to the Table ....
+
+2022-03-03/17:15:52		Exception  : Received an argument of invalid type for column "unit_nr". Expected: <class 'cassandra.cqltypes.FloatType'>, Got: <class 'str'>; (required argument is not a float)
+
+2022-03-03/17:15:52		This is a problem with Model TrainingReceived an argument of invalid type for column "unit_nr". Expected: <class 'cassandra.cqltypes.FloatType'>, Got: <class 'str'>; (required argument is not a float)
+
+2022-03-03/17:31:09		
+
+
+
+2022-03-03/17:31:09		Training DB Operations started..
+
+2022-03-03/17:31:09		Connecting with database..
+
+2022-03-03/17:31:12		Exception  : Unable to connect to the metadata service at https://8e4db055-5054-49d0-a60c-b5c57d0dab86-us-east1.db.astra.datastax.com:29080/metadata. Check the cluster status in the cloud console. 
+
+2022-03-03/17:31:12		This is a problem with Model TrainingUnable to connect to the metadata service at https://8e4db055-5054-49d0-a60c-b5c57d0dab86-us-east1.db.astra.datastax.com:29080/metadata. Check the cluster status in the cloud console. 
+
+2022-03-03/17:31:18		
+
+
+
+2022-03-03/17:31:18		Training DB Operations started..
+
+2022-03-03/17:31:18		Connecting with database..
+
+2022-03-03/17:31:24		Exception  : Unable to connect to the metadata service at https://8e4db055-5054-49d0-a60c-b5c57d0dab86-us-east1.db.astra.datastax.com:29080/metadata. Check the cluster status in the cloud console. 
+
+2022-03-03/17:31:24		This is a problem with Model TrainingUnable to connect to the metadata service at https://8e4db055-5054-49d0-a60c-b5c57d0dab86-us-east1.db.astra.datastax.com:29080/metadata. Check the cluster status in the cloud console. 
+
+2022-03-03/17:31:58		
+
+
+
+2022-03-03/17:31:58		Training DB Operations started..
+
+2022-03-03/17:31:58		Connecting with database..
+
+2022-03-03/17:32:04		Exception  : Unable to connect to the metadata service at https://8e4db055-5054-49d0-a60c-b5c57d0dab86-us-east1.db.astra.datastax.com:29080/metadata. Check the cluster status in the cloud console. 
+
+2022-03-03/17:32:04		This is a problem with Model TrainingUnable to connect to the metadata service at https://8e4db055-5054-49d0-a60c-b5c57d0dab86-us-east1.db.astra.datastax.com:29080/metadata. Check the cluster status in the cloud console. 
+
+2022-03-03/17:32:10		
+
+
+
+2022-03-03/17:32:10		Training DB Operations started..
+
+2022-03-03/17:32:10		Connecting with database..
+
+2022-03-03/17:32:16		Exception  : Unable to connect to the metadata service at https://8e4db055-5054-49d0-a60c-b5c57d0dab86-us-east1.db.astra.datastax.com:29080/metadata. Check the cluster status in the cloud console. 
+
+2022-03-03/17:32:16		This is a problem with Model TrainingUnable to connect to the metadata service at https://8e4db055-5054-49d0-a60c-b5c57d0dab86-us-east1.db.astra.datastax.com:29080/metadata. Check the cluster status in the cloud console. 
+
+2022-03-03/17:32:52		
+
+
+
+2022-03-03/17:32:52		Training DB Operations started..
+
+2022-03-03/17:32:52		Connecting with database..
+
+2022-03-03/17:33:05		Database connection is successful
+
+2022-03-03/17:33:06		Good Training Table Created Successfully....
+
+2022-03-03/17:33:06		 Inserting Good Data to the Table ....
+
+2022-03-03/17:34:08		Database Insertion is Completed ....
+
+2022-03-03/17:34:08		Extracting the Good data  from Database....
+
+2022-03-03/17:34:30		Data Extraction is completed stored in InputFile.csv ....
+
+2022-03-03/17:34:30		Data Validation Completed Successfully
+
+2022-03-03/17:39:26		Model Training Completed Successfully

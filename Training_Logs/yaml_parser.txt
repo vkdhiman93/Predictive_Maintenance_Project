@@ -1,0 +1,550 @@
+
+2022-02-23/13:08:52		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/13:08:52		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'bDyavhcgYhwleAdJfhmRUZlf', 'client_seck': 'yd9LR,PG3jQfT99_u8YwDpSjaxeayApYPEf0qTx29hyqrhU-+TTaY0cTmqcD6_n_onLN4+PPf4QE,jZ5NwnzJsteflroezYKMi7FR.mFEAi,o6CUrZnaILQh.rbko9DH', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/13:08:52		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/13:08:52		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'bDyavhcgYhwleAdJfhmRUZlf', 'client_seck': 'yd9LR,PG3jQfT99_u8YwDpSjaxeayApYPEf0qTx29hyqrhU-+TTaY0cTmqcD6_n_onLN4+PPf4QE,jZ5NwnzJsteflroezYKMi7FR.mFEAi,o6CUrZnaILQh.rbko9DH', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/13:10:49		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/13:10:49		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'bDyavhcgYhwleAdJfhmRUZlf', 'client_seck': 'yd9LR,PG3jQfT99_u8YwDpSjaxeayApYPEf0qTx29hyqrhU-+TTaY0cTmqcD6_n_onLN4+PPf4QE,jZ5NwnzJsteflroezYKMi7FR.mFEAi,o6CUrZnaILQh.rbko9DH', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/13:10:49		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/13:10:49		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'bDyavhcgYhwleAdJfhmRUZlf', 'client_seck': 'yd9LR,PG3jQfT99_u8YwDpSjaxeayApYPEf0qTx29hyqrhU-+TTaY0cTmqcD6_n_onLN4+PPf4QE,jZ5NwnzJsteflroezYKMi7FR.mFEAi,o6CUrZnaILQh.rbko9DH', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/13:15:35		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/13:15:35		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'bDyavhcgYhwleAdJfhmRUZlf', 'client_seck': 'yd9LR,PG3jQfT99_u8YwDpSjaxeayApYPEf0qTx29hyqrhU-+TTaY0cTmqcD6_n_onLN4+PPf4QE,jZ5NwnzJsteflroezYKMi7FR.mFEAi,o6CUrZnaILQh.rbko9DH', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/13:15:35		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/13:15:35		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'bDyavhcgYhwleAdJfhmRUZlf', 'client_seck': 'yd9LR,PG3jQfT99_u8YwDpSjaxeayApYPEf0qTx29hyqrhU-+TTaY0cTmqcD6_n_onLN4+PPf4QE,jZ5NwnzJsteflroezYKMi7FR.mFEAi,o6CUrZnaILQh.rbko9DH', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/13:27:58		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/13:27:58		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'bDyavhcgYhwleAdJfhmRUZlf', 'client_seck': 'yd9LR,PG3jQfT99_u8YwDpSjaxeayApYPEf0qTx29hyqrhU-+TTaY0cTmqcD6_n_onLN4+PPf4QE,jZ5NwnzJsteflroezYKMi7FR.mFEAi,o6CUrZnaILQh.rbko9DH', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/13:27:58		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/13:27:58		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'bDyavhcgYhwleAdJfhmRUZlf', 'client_seck': 'yd9LR,PG3jQfT99_u8YwDpSjaxeayApYPEf0qTx29hyqrhU-+TTaY0cTmqcD6_n_onLN4+PPf4QE,jZ5NwnzJsteflroezYKMi7FR.mFEAi,o6CUrZnaILQh.rbko9DH', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/13:35:11		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/13:35:11		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'bDyavhcgYhwleAdJfhmRUZlf', 'client_seck': 'yd9LR,PG3jQfT99_u8YwDpSjaxeayApYPEf0qTx29hyqrhU-+TTaY0cTmqcD6_n_onLN4+PPf4QE,jZ5NwnzJsteflroezYKMi7FR.mFEAi,o6CUrZnaILQh.rbko9DH', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/13:35:11		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/13:35:11		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'bDyavhcgYhwleAdJfhmRUZlf', 'client_seck': 'yd9LR,PG3jQfT99_u8YwDpSjaxeayApYPEf0qTx29hyqrhU-+TTaY0cTmqcD6_n_onLN4+PPf4QE,jZ5NwnzJsteflroezYKMi7FR.mFEAi,o6CUrZnaILQh.rbko9DH', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/13:41:34		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/13:41:34		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'bDyavhcgYhwleAdJfhmRUZlf', 'client_seck': 'yd9LR,PG3jQfT99_u8YwDpSjaxeayApYPEf0qTx29hyqrhU-+TTaY0cTmqcD6_n_onLN4+PPf4QE,jZ5NwnzJsteflroezYKMi7FR.mFEAi,o6CUrZnaILQh.rbko9DH', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/13:41:34		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/13:41:34		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'bDyavhcgYhwleAdJfhmRUZlf', 'client_seck': 'yd9LR,PG3jQfT99_u8YwDpSjaxeayApYPEf0qTx29hyqrhU-+TTaY0cTmqcD6_n_onLN4+PPf4QE,jZ5NwnzJsteflroezYKMi7FR.mFEAi,o6CUrZnaILQh.rbko9DH', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/13:45:24		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/13:45:24		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'bDyavhcgYhwleAdJfhmRUZlf', 'client_seck': 'yd9LR,PG3jQfT99_u8YwDpSjaxeayApYPEf0qTx29hyqrhU-+TTaY0cTmqcD6_n_onLN4+PPf4QE,jZ5NwnzJsteflroezYKMi7FR.mFEAi,o6CUrZnaILQh.rbko9DH', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/13:45:24		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/13:45:24		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'bDyavhcgYhwleAdJfhmRUZlf', 'client_seck': 'yd9LR,PG3jQfT99_u8YwDpSjaxeayApYPEf0qTx29hyqrhU-+TTaY0cTmqcD6_n_onLN4+PPf4QE,jZ5NwnzJsteflroezYKMi7FR.mFEAi,o6CUrZnaILQh.rbko9DH', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/13:50:16		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/13:50:16		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'bDyavhcgYhwleAdJfhmRUZlf', 'client_seck': 'yd9LR,PG3jQfT99_u8YwDpSjaxeayApYPEf0qTx29hyqrhU-+TTaY0cTmqcD6_n_onLN4+PPf4QE,jZ5NwnzJsteflroezYKMi7FR.mFEAi,o6CUrZnaILQh.rbko9DH', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/13:50:16		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/13:50:16		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'bDyavhcgYhwleAdJfhmRUZlf', 'client_seck': 'yd9LR,PG3jQfT99_u8YwDpSjaxeayApYPEf0qTx29hyqrhU-+TTaY0cTmqcD6_n_onLN4+PPf4QE,jZ5NwnzJsteflroezYKMi7FR.mFEAi,o6CUrZnaILQh.rbko9DH', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/13:52:39		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/13:52:39		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'bDyavhcgYhwleAdJfhmRUZlf', 'client_seck': 'yd9LR,PG3jQfT99_u8YwDpSjaxeayApYPEf0qTx29hyqrhU-+TTaY0cTmqcD6_n_onLN4+PPf4QE,jZ5NwnzJsteflroezYKMi7FR.mFEAi,o6CUrZnaILQh.rbko9DH', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/13:52:39		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/13:52:39		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'bDyavhcgYhwleAdJfhmRUZlf', 'client_seck': 'yd9LR,PG3jQfT99_u8YwDpSjaxeayApYPEf0qTx29hyqrhU-+TTaY0cTmqcD6_n_onLN4+PPf4QE,jZ5NwnzJsteflroezYKMi7FR.mFEAi,o6CUrZnaILQh.rbko9DH', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/14:29:21		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/14:29:21		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'bDyavhcgYhwleAdJfhmRUZlf', 'client_seck': 'yd9LR,PG3jQfT99_u8YwDpSjaxeayApYPEf0qTx29hyqrhU-+TTaY0cTmqcD6_n_onLN4+PPf4QE,jZ5NwnzJsteflroezYKMi7FR.mFEAi,o6CUrZnaILQh.rbko9DH', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/14:29:21		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/14:29:21		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'bDyavhcgYhwleAdJfhmRUZlf', 'client_seck': 'yd9LR,PG3jQfT99_u8YwDpSjaxeayApYPEf0qTx29hyqrhU-+TTaY0cTmqcD6_n_onLN4+PPf4QE,jZ5NwnzJsteflroezYKMi7FR.mFEAi,o6CUrZnaILQh.rbko9DH', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/15:00:03		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/15:00:03		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'cgZoZZNNeUGTxDZSDpTEeZkN', 'client_seck': 'ZWvPwk-LNTazEvg8OSoTZEaZ4eH.PQ2Q2OeEUH-ymUx0DwU6jBZv4k7k1rlZ7z74XZAKab8Zh3-Jy5H4MWYpTzw.oWdGbCZz7Nr0FhWm2ivdPm0OFmjFxwzxZv7Sl58n', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"ineuron"', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/15:00:03		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/15:00:03		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'cgZoZZNNeUGTxDZSDpTEeZkN', 'client_seck': 'ZWvPwk-LNTazEvg8OSoTZEaZ4eH.PQ2Q2OeEUH-ymUx0DwU6jBZv4k7k1rlZ7z74XZAKab8Zh3-Jy5H4MWYpTzw.oWdGbCZz7Nr0FhWm2ivdPm0OFmjFxwzxZv7Sl58n', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"ineuron"', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/15:12:25		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/15:12:25		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'cgZoZZNNeUGTxDZSDpTEeZkN', 'client_seck': 'ZWvPwk-LNTazEvg8OSoTZEaZ4eH.PQ2Q2OeEUH-ymUx0DwU6jBZv4k7k1rlZ7z74XZAKab8Zh3-Jy5H4MWYpTzw.oWdGbCZz7Nr0FhWm2ivdPm0OFmjFxwzxZv7Sl58n', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"ineuron"', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/15:12:25		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/15:12:25		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'cgZoZZNNeUGTxDZSDpTEeZkN', 'client_seck': 'ZWvPwk-LNTazEvg8OSoTZEaZ4eH.PQ2Q2OeEUH-ymUx0DwU6jBZv4k7k1rlZ7z74XZAKab8Zh3-Jy5H4MWYpTzw.oWdGbCZz7Nr0FhWm2ivdPm0OFmjFxwzxZv7Sl58n', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"ineuron"', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/15:14:48		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/15:14:48		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'cgZoZZNNeUGTxDZSDpTEeZkN', 'client_seck': 'ZWvPwk-LNTazEvg8OSoTZEaZ4eH.PQ2Q2OeEUH-ymUx0DwU6jBZv4k7k1rlZ7z74XZAKab8Zh3-Jy5H4MWYpTzw.oWdGbCZz7Nr0FhWm2ivdPm0OFmjFxwzxZv7Sl58n', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"ineuron"', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/15:14:48		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/15:14:48		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'cgZoZZNNeUGTxDZSDpTEeZkN', 'client_seck': 'ZWvPwk-LNTazEvg8OSoTZEaZ4eH.PQ2Q2OeEUH-ymUx0DwU6jBZv4k7k1rlZ7z74XZAKab8Zh3-Jy5H4MWYpTzw.oWdGbCZz7Nr0FhWm2ivdPm0OFmjFxwzxZv7Sl58n', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"ineuron"', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/15:16:37		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/15:16:37		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'cgZoZZNNeUGTxDZSDpTEeZkN', 'client_seck': 'ZWvPwk-LNTazEvg8OSoTZEaZ4eH.PQ2Q2OeEUH-ymUx0DwU6jBZv4k7k1rlZ7z74XZAKab8Zh3-Jy5H4MWYpTzw.oWdGbCZz7Nr0FhWm2ivdPm0OFmjFxwzxZv7Sl58n', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"ineuron"', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/15:16:37		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/15:16:37		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'cgZoZZNNeUGTxDZSDpTEeZkN', 'client_seck': 'ZWvPwk-LNTazEvg8OSoTZEaZ4eH.PQ2Q2OeEUH-ymUx0DwU6jBZv4k7k1rlZ7z74XZAKab8Zh3-Jy5H4MWYpTzw.oWdGbCZz7Nr0FhWm2ivdPm0OFmjFxwzxZv7Sl58n', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"ineuron"', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/15:17:55		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/15:17:55		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'cgZoZZNNeUGTxDZSDpTEeZkN', 'client_seck': 'ZWvPwk-LNTazEvg8OSoTZEaZ4eH.PQ2Q2OeEUH-ymUx0DwU6jBZv4k7k1rlZ7z74XZAKab8Zh3-Jy5H4MWYpTzw.oWdGbCZz7Nr0FhWm2ivdPm0OFmjFxwzxZv7Sl58n', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"ineuron"', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/15:17:55		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/15:17:55		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'cgZoZZNNeUGTxDZSDpTEeZkN', 'client_seck': 'ZWvPwk-LNTazEvg8OSoTZEaZ4eH.PQ2Q2OeEUH-ymUx0DwU6jBZv4k7k1rlZ7z74XZAKab8Zh3-Jy5H4MWYpTzw.oWdGbCZz7Nr0FhWm2ivdPm0OFmjFxwzxZv7Sl58n', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"ineuron"', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/15:19:16		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/15:19:16		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'cgZoZZNNeUGTxDZSDpTEeZkN', 'client_seck': 'ZWvPwk-LNTazEvg8OSoTZEaZ4eH.PQ2Q2OeEUH-ymUx0DwU6jBZv4k7k1rlZ7z74XZAKab8Zh3-Jy5H4MWYpTzw.oWdGbCZz7Nr0FhWm2ivdPm0OFmjFxwzxZv7Sl58n', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"ineuron"', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/15:19:16		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/15:19:16		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'cgZoZZNNeUGTxDZSDpTEeZkN', 'client_seck': 'ZWvPwk-LNTazEvg8OSoTZEaZ4eH.PQ2Q2OeEUH-ymUx0DwU6jBZv4k7k1rlZ7z74XZAKab8Zh3-Jy5H4MWYpTzw.oWdGbCZz7Nr0FhWm2ivdPm0OFmjFxwzxZv7Sl58n', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"ineuron"', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/15:22:39		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/15:22:39		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'cgZoZZNNeUGTxDZSDpTEeZkN', 'client_seck': 'ZWvPwk-LNTazEvg8OSoTZEaZ4eH.PQ2Q2OeEUH-ymUx0DwU6jBZv4k7k1rlZ7z74XZAKab8Zh3-Jy5H4MWYpTzw.oWdGbCZz7Nr0FhWm2ivdPm0OFmjFxwzxZv7Sl58n', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"ineuron"', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/15:22:39		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/15:22:39		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'cgZoZZNNeUGTxDZSDpTEeZkN', 'client_seck': 'ZWvPwk-LNTazEvg8OSoTZEaZ4eH.PQ2Q2OeEUH-ymUx0DwU6jBZv4k7k1rlZ7z74XZAKab8Zh3-Jy5H4MWYpTzw.oWdGbCZz7Nr0FhWm2ivdPm0OFmjFxwzxZv7Sl58n', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"ineuron"', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/15:58:51		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/15:58:51		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'cgZoZZNNeUGTxDZSDpTEeZkN', 'client_seck': 'ZWvPwk-LNTazEvg8OSoTZEaZ4eH.PQ2Q2OeEUH-ymUx0DwU6jBZv4k7k1rlZ7z74XZAKab8Zh3-Jy5H4MWYpTzw.oWdGbCZz7Nr0FhWm2ivdPm0OFmjFxwzxZv7Sl58n', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"ineuron"', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/15:58:51		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/15:58:51		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'cgZoZZNNeUGTxDZSDpTEeZkN', 'client_seck': 'ZWvPwk-LNTazEvg8OSoTZEaZ4eH.PQ2Q2OeEUH-ymUx0DwU6jBZv4k7k1rlZ7z74XZAKab8Zh3-Jy5H4MWYpTzw.oWdGbCZz7Nr0FhWm2ivdPm0OFmjFxwzxZv7Sl58n', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"ineuron"', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/16:24:38		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/16:24:38		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'cgZoZZNNeUGTxDZSDpTEeZkN', 'client_seck': 'ZWvPwk-LNTazEvg8OSoTZEaZ4eH.PQ2Q2OeEUH-ymUx0DwU6jBZv4k7k1rlZ7z74XZAKab8Zh3-Jy5H4MWYpTzw.oWdGbCZz7Nr0FhWm2ivdPm0OFmjFxwzxZv7Sl58n', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"ineuron"', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/16:24:38		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/16:24:38		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'cgZoZZNNeUGTxDZSDpTEeZkN', 'client_seck': 'ZWvPwk-LNTazEvg8OSoTZEaZ4eH.PQ2Q2OeEUH-ymUx0DwU6jBZv4k7k1rlZ7z74XZAKab8Zh3-Jy5H4MWYpTzw.oWdGbCZz7Nr0FhWm2ivdPm0OFmjFxwzxZv7Sl58n', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"ineuron"', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/16:29:07		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/16:29:07		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'cgZoZZNNeUGTxDZSDpTEeZkN', 'client_seck': 'ZWvPwk-LNTazEvg8OSoTZEaZ4eH.PQ2Q2OeEUH-ymUx0DwU6jBZv4k7k1rlZ7z74XZAKab8Zh3-Jy5H4MWYpTzw.oWdGbCZz7Nr0FhWm2ivdPm0OFmjFxwzxZv7Sl58n', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"ineuron"', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/16:29:07		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/16:29:07		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'cgZoZZNNeUGTxDZSDpTEeZkN', 'client_seck': 'ZWvPwk-LNTazEvg8OSoTZEaZ4eH.PQ2Q2OeEUH-ymUx0DwU6jBZv4k7k1rlZ7z74XZAKab8Zh3-Jy5H4MWYpTzw.oWdGbCZz7Nr0FhWm2ivdPm0OFmjFxwzxZv7Sl58n', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"ineuron"', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/16:33:38		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/16:33:38		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'cgZoZZNNeUGTxDZSDpTEeZkN', 'client_seck': 'ZWvPwk-LNTazEvg8OSoTZEaZ4eH.PQ2Q2OeEUH-ymUx0DwU6jBZv4k7k1rlZ7z74XZAKab8Zh3-Jy5H4MWYpTzw.oWdGbCZz7Nr0FhWm2ivdPm0OFmjFxwzxZv7Sl58n', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"ineuron"', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/16:33:38		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/16:33:38		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'cgZoZZNNeUGTxDZSDpTEeZkN', 'client_seck': 'ZWvPwk-LNTazEvg8OSoTZEaZ4eH.PQ2Q2OeEUH-ymUx0DwU6jBZv4k7k1rlZ7z74XZAKab8Zh3-Jy5H4MWYpTzw.oWdGbCZz7Nr0FhWm2ivdPm0OFmjFxwzxZv7Sl58n', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"ineuron"', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/16:35:39		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/16:35:39		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'cgZoZZNNeUGTxDZSDpTEeZkN', 'client_seck': 'ZWvPwk-LNTazEvg8OSoTZEaZ4eH.PQ2Q2OeEUH-ymUx0DwU6jBZv4k7k1rlZ7z74XZAKab8Zh3-Jy5H4MWYpTzw.oWdGbCZz7Nr0FhWm2ivdPm0OFmjFxwzxZv7Sl58n', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"ineuron"', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/16:35:39		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/16:35:39		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'cgZoZZNNeUGTxDZSDpTEeZkN', 'client_seck': 'ZWvPwk-LNTazEvg8OSoTZEaZ4eH.PQ2Q2OeEUH-ymUx0DwU6jBZv4k7k1rlZ7z74XZAKab8Zh3-Jy5H4MWYpTzw.oWdGbCZz7Nr0FhWm2ivdPm0OFmjFxwzxZv7Sl58n', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"ineuron"', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/16:36:14		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/16:36:14		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'cgZoZZNNeUGTxDZSDpTEeZkN', 'client_seck': 'ZWvPwk-LNTazEvg8OSoTZEaZ4eH.PQ2Q2OeEUH-ymUx0DwU6jBZv4k7k1rlZ7z74XZAKab8Zh3-Jy5H4MWYpTzw.oWdGbCZz7Nr0FhWm2ivdPm0OFmjFxwzxZv7Sl58n', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"ineuron"', 'purpose': 'to store Good validated data'}}]
+
+2022-02-23/16:36:14		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-23/16:36:14		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'cgZoZZNNeUGTxDZSDpTEeZkN', 'client_seck': 'ZWvPwk-LNTazEvg8OSoTZEaZ4eH.PQ2Q2OeEUH-ymUx0DwU6jBZv4k7k1rlZ7z74XZAKab8Zh3-Jy5H4MWYpTzw.oWdGbCZz7Nr0FhWm2ivdPm0OFmjFxwzxZv7Sl58n', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"ineuron"', 'purpose': 'to store Good validated data'}}]
+
+2022-02-24/17:00:24		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-24/17:00:24		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'cgZoZZNNeUGTxDZSDpTEeZkN', 'client_seck': 'ZWvPwk-LNTazEvg8OSoTZEaZ4eH.PQ2Q2OeEUH-ymUx0DwU6jBZv4k7k1rlZ7z74XZAKab8Zh3-Jy5H4MWYpTzw.oWdGbCZz7Nr0FhWm2ivdPm0OFmjFxwzxZv7Sl58n', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"ineuron"', 'purpose': 'to store Good validated data'}}]
+
+2022-02-24/17:00:24		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-24/17:00:24		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'cgZoZZNNeUGTxDZSDpTEeZkN', 'client_seck': 'ZWvPwk-LNTazEvg8OSoTZEaZ4eH.PQ2Q2OeEUH-ymUx0DwU6jBZv4k7k1rlZ7z74XZAKab8Zh3-Jy5H4MWYpTzw.oWdGbCZz7Nr0FhWm2ivdPm0OFmjFxwzxZv7Sl58n', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"ineuron"', 'purpose': 'to store Good validated data'}}]
+
+2022-02-24/17:22:54		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-24/17:22:54		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'cgZoZZNNeUGTxDZSDpTEeZkN', 'client_seck': 'ZWvPwk-LNTazEvg8OSoTZEaZ4eH.PQ2Q2OeEUH-ymUx0DwU6jBZv4k7k1rlZ7z74XZAKab8Zh3-Jy5H4MWYpTzw.oWdGbCZz7Nr0FhWm2ivdPm0OFmjFxwzxZv7Sl58n', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-24/17:22:54		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-24/17:22:54		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'cgZoZZNNeUGTxDZSDpTEeZkN', 'client_seck': 'ZWvPwk-LNTazEvg8OSoTZEaZ4eH.PQ2Q2OeEUH-ymUx0DwU6jBZv4k7k1rlZ7z74XZAKab8Zh3-Jy5H4MWYpTzw.oWdGbCZz7Nr0FhWm2ivdPm0OFmjFxwzxZv7Sl58n', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-24/20:28:32		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-24/20:28:32		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'cgZoZZNNeUGTxDZSDpTEeZkN', 'client_seck': 'ZWvPwk-LNTazEvg8OSoTZEaZ4eH.PQ2Q2OeEUH-ymUx0DwU6jBZv4k7k1rlZ7z74XZAKab8Zh3-Jy5H4MWYpTzw.oWdGbCZz7Nr0FhWm2ivdPm0OFmjFxwzxZv7Sl58n', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-24/20:28:32		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-24/20:28:32		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'cgZoZZNNeUGTxDZSDpTEeZkN', 'client_seck': 'ZWvPwk-LNTazEvg8OSoTZEaZ4eH.PQ2Q2OeEUH-ymUx0DwU6jBZv4k7k1rlZ7z74XZAKab8Zh3-Jy5H4MWYpTzw.oWdGbCZz7Nr0FhWm2ivdPm0OFmjFxwzxZv7Sl58n', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-24/21:39:16		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-24/21:39:16		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-24/21:39:16		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-24/21:39:16		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-24/22:12:46		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-24/22:12:46		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-24/22:12:46		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-24/22:12:46		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-24/22:25:11		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-24/22:25:11		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-24/22:25:11		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-24/22:25:11		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-25/11:16:44		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-25/11:16:44		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-25/11:16:44		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-25/11:16:44		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-25/11:23:50		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-25/11:23:50		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-25/11:23:50		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-25/11:23:50		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-25/11:48:10		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-25/11:48:10		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-25/11:48:10		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-25/11:48:10		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-25/11:58:14		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-25/11:58:14		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-25/11:58:14		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-25/11:58:14		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-25/12:06:16		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-25/12:06:16		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-25/12:06:16		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-25/12:06:16		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-25/12:20:32		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-25/12:20:32		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-25/12:20:32		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-25/12:20:32		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-25/12:20:43		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-25/12:20:43		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-25/12:20:43		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-25/12:20:43		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-25/12:21:57		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-25/12:21:57		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-25/12:21:57		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-25/12:21:57		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-25/13:27:55		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-25/13:27:55		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-25/13:27:55		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-25/13:27:55		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-25/13:28:50		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-25/13:28:50		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-25/13:28:50		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-25/13:28:50		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-25/13:35:29		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-25/13:35:29		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-25/13:35:29		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-25/13:35:29		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-25/13:58:52		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-25/13:58:52		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-25/13:58:52		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-25/13:58:52		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-25/14:00:08		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-25/14:00:08		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-25/14:00:08		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-25/14:00:08		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-25/15:34:02		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-25/15:34:02		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-25/15:34:02		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-25/15:34:02		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-25/18:16:33		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-25/18:16:33		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-02-25/18:16:33		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-02-25/18:16:33		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-03-01/16:56:05		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-03-01/16:56:05		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-03-01/16:56:05		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-03-01/16:56:05		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-03-01/16:57:05		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-03-01/16:57:05		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-03-01/16:57:05		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-03-01/16:57:05		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-03-03/17:01:15		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-03-03/17:01:15		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-03-03/17:01:15		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-03-03/17:01:15		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-03-03/17:08:54		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-03-03/17:08:54		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-03-03/17:08:54		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-03-03/17:08:54		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-03-03/17:14:44		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-03-03/17:14:44		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-03-03/17:14:44		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-03-03/17:14:44		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-03-03/17:15:37		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-03-03/17:15:37		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-03-03/17:15:37		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-03-03/17:15:37		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-03-03/17:31:09		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-03-03/17:31:09		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-03-03/17:31:09		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-03-03/17:31:09		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-03-03/17:31:18		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-03-03/17:31:18		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-03-03/17:31:18		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-03-03/17:31:18		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-03-03/17:31:58		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-03-03/17:31:58		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-03-03/17:31:58		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-03-03/17:31:58		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-03-03/17:32:10		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-03-03/17:32:10		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-03-03/17:32:10		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-03-03/17:32:10		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-03-03/17:32:52		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-03-03/17:32:52		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
+
+2022-03-03/17:32:52		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-03-03/17:32:52		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'rul_project', 'keys_': {'path_to_zip': 'secure-connect-rul-project.zip', 'client_id': 'eDPAZCyPzJjHcqMkOomXrEJu', 'client_seck': '0tTHkgdpLHU4IHQ6iQ,zTBoy5QsjZls0MyHx2pLDhdhAZN4j,25siGHLuFN4Z6,PiM1U-pRym-PbvIS1rL3gC0AFXdrYRxafJQU5po-7lAq_7KgUuXD62O5,uvnC_5xG', 'role': 'Admin User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': 'ineuron', 'purpose': 'to store Good validated data'}}]
