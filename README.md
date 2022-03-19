@@ -38,6 +38,10 @@ The objective of the project is to predict the number of remaining operational c
  ## Deployment Links (Heroku)
 link : https://predictive-maintenance-project.herokuapp.com/ <br>
 
+*NOTE* - Avoid using training route while running on cloud as i have used Heroku Free Tier, 
+which do not provides enough computation for model training and causes high memory usage error.  
+
+
 ## WorkFlow
 ![ML_Project_Workflow](https://user-images.githubusercontent.com/65784413/156510445-3f818ee5-5af9-423b-aba2-930afdbc0511.png)
 
@@ -127,4 +131,117 @@ git push origin new-branch
 * Create a pull request
 ```javascript
 git pull
+```
+
+## Directory Structure
+
+```
+Predictive_Maintenance_Project
+|   .gitignore
+|   add_rul.py
+|   app.py
+|   prediction_file.py
+|   Procfile
+|   README.md
+|   requirements.txt
+|   runtime.txt
+|   secure-connect-rul-project.zip
+|   training_db_linkage.py
+|   training_file.py
+|   Training_Schema.json
+|   
++---Analysis
+|       EDA_RUL_assumption_and_SVR.ipynb
+|       RUL_FD001.txt
+|       test_FD001.txt
+|       train_FD001.txt
+|       
++---application_logging
+|       logging.py 
+|           
++---Controllers
+|       DBconnection_info.yaml
+|       
++---Data_Information
++---Data_Ingestion
+|       data_loader.py
+|           
++---Data_Preprocessing
+|       preprocessing.py
+|           
++---Model
+|   \---Lasso Regression
+|           Lasso Regression.sav
+|           
++---Model_Finder
+|       model.py
+|           
++---Prediction_Logs
+|       PredictionLog.txt
+|       
++---Prediction_Output_File
+|       Predictions.csv
+|       
++---Save_Model
+|       save_methods.py
+|           
++---static
+|   +---css
+|   |       style.css
+|   |       
+|   \---js
+|           app.js
+|           
++---templates
+|   +---macros
+|   |       input_macros.html
+|   |       
+|   \---public
+|       |   index.html
+|       |   predict.html
+|       |   training.html
+|       |   upload_csv.html
+|       |   
+|       \---templates
+|               public_template.html
+|               
++---Tools
+|       DBconnector.py
+|       training_logFilesCretaor.py
+|       YamlParser.py
+|       __init__.py
+|           
++---Training_Batch_Files
+|       train_FD001.txt
+|       
++---Training_Database_Operations
+|       Database_handler.py
+|       __init__.py
+|           
++---Training_DataValidation
+|       RawTrainingValidation.py
+|           
++---Training_FileFromDB
+|       InputFile.csv
+|       RUL_FD001.txt
+|       test_FD001.txt
+|       
++---Training_Logs
+|       columnValidationLog.txt
+|       DataBaseConnectionLog.txt
+|       DataImportExport.txt
+|       Datapreprocessing_logs.txt
+|       GeneralLog.txt
+|       missingValuesInColumn.txt
+|       ModelTrainingLog.txt
+|       nameValidationLog.txt
+|       TrainingDatabseInfo.txt
+|       TrainingMainLog.txt
+|       valuesfromSchemaValidationLog.txt
+|       yaml_parser.txt
+|       
++---Training_Raw_files_validated
+    +---Bad_Raw
+    \---Good_Raw
+            train_FD001.txt
 ```
