@@ -43,7 +43,8 @@ which do not provides enough computation for model training and causes high memo
 
 
 ## WorkFlow
-![ML_Project_Workflow](https://user-images.githubusercontent.com/65784413/156510445-3f818ee5-5af9-423b-aba2-930afdbc0511.png)
+
+![Project Flow - Flowchart (1)](https://user-images.githubusercontent.com/65784413/162396512-010cc8c4-5c44-4ddf-a0ee-5f9fd2f5198c.png)
 
 # Snippets of Project
 #### 1) Home Page:
